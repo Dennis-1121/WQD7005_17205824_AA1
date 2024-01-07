@@ -19,3 +19,9 @@ Tools used:
 
 Dataset 
 The dataset used in this case study consists of 1021 rows with 12 features related to customer transactions. The dataset used is aggregated from the dataset obtained in Kaggle (https://www.kaggle.com/datasets/earthfromtop/amazon-sales-fy202021) using Python with Pandas and Numpy libraries. The original dataset consists of 35 features with 286k of entries data. To fulfill the objective of this case study, the dataset is aggregated into 1000 rows with 12 features. The 12 features are Customer ID, Age, Gender, Location, Membership Level, TotalPurchases, TotalSpent, TotalDiscount, FavoriteCategory, FavoritePaymentMethod, LastPurchaseDate, and Churn.
+
+Code and Script:
+1. AA1.ipynb - Python code used to generate datasets required for this case study
+2. missing1.csv - final datasets used in SAS Enterprise Miner
+3. 17205824_AA1.zip - project folder for SAS Enterprise Miner
+4. AA1-TalendOpenStudio.zip - Project folder for Talend Open Studio for Data Integration
