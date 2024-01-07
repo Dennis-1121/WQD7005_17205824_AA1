@@ -1,0 +1,1001 @@
+cust_id,age,Gender,City,Location,MembershipLevel,TotalPurchases,TotalSpent,TotalDiscount,FavoriteCategory,FavoritePaymentMethod,LastPurchaseDate,Churn
+60124,43,F,Vinson,South,Bronze,7,4013.8,0,Men's Fashion,cod,11/13/2020,1
+42485,28,M,Graham,South,Silver,21,4718.14,855.96,Appliances,Easypay,12/28/2020,
+53620,65,M,Grand Forks,Midwest,Bronze,5,4494.5,0,Appliances,cod,10/25/2020,1
+56836,33,M,Laupahoehoe,West,Bronze,11,13084.1,0,Appliances,Easypay,10/24/2020,1
+60125,73,F,Glendo,West,Bronze,4,1020,0,Men's Fashion,Payaxis,2/10/2020,1
+51286,64,F,Farmington,South,Bronze,1,3139.2,0,Mobiles & Tablets,Payaxis,1/10/2020,1
+60126,75,F,Nashville,South,Bronze,3,780.3,0,Computing,cod,10/19/2020,1
+60127,52,M,Warwick,Northeast,Bronze,2,3900,0,Home & Living,Payaxis,9/10/2020,1
+60128,31,M,Sarasota,South,Bronze,1,35,0,Mobiles & Tablets,cod,1/10/2020,1
+56449,71,F,Brownstown,Midwest,Gold,49,16175.2,0,Men's Fashion,Payaxis,9/19/2021,0
+60129,43,M,Mill Springs,South,Bronze,1,29.9,0,Men's Fashion,cod,1/10/2020,1
+60130,66,F,Brighton,Midwest,Bronze,1,64.5,0,Mobiles & Tablets,cod,1/10/2020,1
+31655,38,F,Phoenix,West,Gold,52,2516.23,97.97,Men's Fashion,jazzwallet,12/4/2021,0
+60131,71,M,Fort Smith,South,Bronze,1,,0,Women's Fashion,cod,1/10/2020,1
+15106,64,M,Drew,South,Silver,26,11572,592,Women's Fashion,easypay_voucher,5/21/2021,0
+37011,38,M,Snyder,Midwest,Silver,19,650.7,20,Soghaat,cod,6/29/2021,0
+52163,60,M,Riverton,Northeast,Bronze,1,103.5,0,Appliances,cod,1/10/2020,1
+60132,75,M,Huntington,South,Bronze,4,474,0,Women's Fashion,Payaxis,1/10/2020,1
+44511,18,M,Benton,South,Bronze,1,35,0,Men's Fashion,cod,1/10/2020,1
+60133,46,M,El Monte,West,Gold,63,61211.4,0,Mobiles & Tablets,Payaxis,12/10/2020,0
+60134,60,M,Saint Louis,Midwest,,5,,110,Mobiles & Tablets,cod,5/10/2020,1
+60135,60,M,Linton,Midwest,Bronze,,513.3,0,Women's Fashion,cod,1/10/2020,1
+6702,54,F,Lake Charles,South,Gold,65,87117.121,751.579,Mobiles & Tablets,cod,11/9/2021,0
+60136,29,F,Newton,South,Bronze,1,115,0,Men's Fashion,cod,1/10/2020,1
+60137,45,F,Baytown,South,Bronze,7,761.3,0,Soghaat,Payaxis,2/20/2021,0
+60138,67,F,Ottawa Lake,Midwest,Bronze,1,1896,0,Entertainment,cod,1/10/2020,1
+41583,47,M,San Francisco,West,Bronze,1,540,0,Mobiles & Tablets,Payaxis,1/10/2020,1
+46942,42,M,Waltersburg,Northeast,Bronze,5,370.1,0,Men's Fashion,cod,11/15/2020,0
+60139,37,M,Clifton Forge,South,Bronze,1,25,0,Health & Sports,cod,1/10/2020,1
+59905,45,M,Odin,Midwest,Bronze,3,161.9,0,Men's Fashion,cod,1/10/2020,1
+55731,52,M,Wisdom,West,Gold,60,32551.355,3237.545,Men's Fashion,cod,5/2/2021,0
+60140,67,M,Ogunquit,Northeast,Bronze,1,108,0,Mobiles & Tablets,cod,1/10/2020,1
+57434,53,F,Ducor,West,Silver,15,8365.558,1114.974,Women's Fashion,easypay_voucher,12/29/2020,0
+49586,44,F,New Orleans,South,Bronze,2,489,0,Mobiles & Tablets,cod,1/10/2020,1
+60141,32,M,Bernalillo,West,Bronze,2,277.7,0,Computing,cod,2/23/2021,
+60142,56,F,Des Moines,Midwest,Bronze,2,2070.7,0,Appliances,Payaxis,9/10/2020,1
+60143,59,F,Gulliver,Midwest,Bronze,2,1845.1,0,Appliances,Easypay,10/16/2020,1
+46030,31,M,Utica,Midwest,Bronze,1,2946,0,Appliances,cod,1/10/2020,1
+60144,32,M,Clarks Grove,Midwest,Bronze,1,150,0,Health & Sports,cod,1/10/2020,1
+60145,27,M,East Texas,Northeast,Bronze,1,60,0,Health & Sports,cod,1/10/2020,1
+60146,75,F,Inman,South,Bronze,2,3859.9,0,Mobiles & Tablets,Easypay,1/10/2020,1
+60147,42,F,Voltaire,Midwest,Bronze,2,1819.7,0,Appliances,Payaxis,2/10/2020,1
+44445,47,M,Brasstown,South,Platinum,200,191332.081,3523.619,Appliances,cod,11/6/2021,0
+60115,46,F,Mesa,West,Bronze,8,1757.2,0,Women's Fashion,Payaxis,12/11/2020,0
+60148,29,M,Waukomis,South,Bronze,4,5347.4,0,Mobiles & Tablets,Payaxis,12/10/2020,0
+8592,37,M,Salt Lake City,West,Silver,14,1125,120,Men's Fashion,cod,10/6/2021,0
+60149,26,M,San Diego,West,Bronze,2,3998.9,0,Men's Fashion,cod,1/10/2020,1
+14603,27,M,Dekalb,Midwest,Bronze,1,215,0,Women's Fashion,cod,1/10/2020,1
+60150,58,M,Chicago,Midwest,Bronze,12,459.8,0,Men's Fashion,cod,12/20/2020,0
+485,25,M,Gully,Midwest,Silver,30,2270.271,371.829,Men's Fashion,easypay_voucher,12/20/2020,0
+32397,61,F,Stendal,Midwest,Bronze,3,414.3,0,Men's Fashion,cod,9/10/2020,1
+43257,63,M,Piney Fork,Midwest,Silver,26,6784.7,0,Women's Fashion,cod,10/9/2021,0
+35698,39,F,Palmetto,South,Silver,22,1164.2,0,Men's Fashion,cod,12/9/2021,0
+60151,27,M,Long Beach,West,Bronze,1,66.7,0,Mobiles & Tablets,cod,1/10/2020,1
+60152,55,M,Webb,Midwest,Bronze,1,124.9,0,Beauty & Grooming,cod,1/10/2020,1
+58132,74,F,Fabens,South,Bronze,4,780.15,10.15,Beauty & Grooming,Easypay_MA,6/2/2021,0
+57688,65,F,Andalusia,South,Silver,16,2057.8,20,Men's Fashion,customercredit,11/29/2020,0
+60153,27,F,Lancaster,Midwest,Bronze,2,7930,0,Mobiles & Tablets,Easypay,3/10/2020,1
+60154,23,F,Scales Mound,Midwest,Bronze,,31.6,0,Appliances,cod,1/10/2020,1
+60155,37,F,Island Pond,Northeast,Bronze,1,45.5,0,Mobiles & Tablets,cod,1/10/2020,1
+60156,36,M,Cleverdale,Northeast,Bronze,1,39.8,0,Mobiles & Tablets,easypay_voucher,1/10/2020,1
+60157,56,F,Media,Northeast,Bronze,1,35,0,Mobiles & Tablets,cod,1/10/2020,1
+29032,43,F,Lake Peekskill,Northeast,Bronze,3,922.5,0,Entertainment,cod,10/16/2020,1
+50173,66,F,Vermilion,Midwest,Bronze,4,189.3,0,Home & Living,cod,10/21/2020,1
+55589,26,M,Dale,South,Silver,24,71438.703,570.097,Mobiles & Tablets,cod,12/25/2020,0
+2579,59,M,Augusta,Northeast,Silver,14,4924.9,0,Women's Fashion,cod,7/18/2021,0
+48102,24,M,Pleasant Grove,West,Bronze,1,244.5,0,Mobiles & Tablets,cod,1/10/2020,1
+60158,43,M,Clifton,Midwest,Bronze,1,99.9,0,Superstore,cod,1/10/2020,1
+52373,49,F,Walker,Midwest,Silver,27,1421.16,47.94,Soghaat,cod,9/15/2021,0
+60159,51,F,Lindsay,West,Bronze,12,125.5,0,Superstore,cod,1/10/2020,1
+59103,54,F,Zephyrhills,South,Bronze,3,168.3,0,Women's Fashion,cod,2/10/2020,1
+60160,24,M,Tustin,West,,2,9743.9,0,Computing,cod,1/10/2020,1
+59587,40,M,New Haven,Northeast,Platinum,202,28152.91,700.04,Others,cod,12/8/2021,0
+16835,62,F,Russellton,Northeast,Bronze,1,103.8,0,Home & Living,cod,1/10/2020,1
+41410,40,F,Tiona,Northeast,Bronze,2,1415.63,507.97,Mobiles & Tablets,Payaxis,3/10/2020,1
+56216,59,M,Homer,South,Gold,36,67477.17,793.53,Mobiles & Tablets,cod,4/2/2021,0
+60161,36,M,Gallipolis,Midwest,Bronze,2,200,0,Men's Fashion,cod,1/10/2020,1
+60162,74,F,Rush City,Midwest,Bronze,2,64.5,0,Home & Living,cod,1/10/2020,1
+9887,49,F,Cosby,South,Bronze,1,100,0,Superstore,Easypay,1/10/2020,1
+60163,31,F,Pequot Lakes,Midwest,Bronze,3,420,0,Health & Sports,cod,11/26/2020,0
+60164,47,M,Wilson,Midwest,Bronze,1,244.5,0,Mobiles & Tablets,cod,1/10/2020,
+60165,30,F,Indianapolis,Midwest,Bronze,2,6095,0,Mobiles & Tablets,Easypay,1/10/2020,1
+58862,49,M,Cary,Midwest,Bronze,9,1234.8,20,Men's Fashion,cod,4/3/2021,0
+60166,48,F,Gainesville,Midwest,Bronze,1,219.9,30,Mobiles & Tablets,cod,1/10/2020,1
+44475,32,M,Wylliesburg,South,Gold,40,52757.361,9108.539,Mobiles & Tablets,easypay_voucher,11/6/2021,0
+60167,50,M,Matthews,South,Bronze,3,1176.8,0,Computing,cod,5/8/2021,0
+38614,26,F,Culp Creek,West,Bronze,3,974.1,0,Women's Fashion,cod,5/11/2020,1
+60168,28,F,Toast,South,,1,145,0,Beauty & Grooming,cod,1/10/2020,1
+43428,31,F,Bow,Northeast,Bronze,1,22.5,0,Men's Fashion,cod,1/10/2020,1
+53954,61,F,Wyatt,Midwest,Bronze,3,194.9,0,Home & Living,cod,9/11/2020,1
+14025,35,F,Baroda,Midwest,Silver,19,4796.27,666.33,Beauty & Grooming,Easypay_MA,3/20/2021,0
+1562,41,M,Monticello,Midwest,Silver,22,36423.14,251.88,Women's Fashion,cod,9/13/2021,
+23398,48,M,Fowler,Midwest,Silver,15,13607.33,4085.57,Mobiles & Tablets,Payaxis,12/3/2021,0
+10731,68,M,Friendly,South,Bronze,5,266,0,Home & Living,cod,1/10/2020,1
+57134,40,M,New Haven,Midwest,Bronze,10,639.7,0,Soghaat,cod,12/8/2021,0
+60169,61,M,Evans,West,Bronze,5,308.4,0,Men's Fashion,cod,10/23/2020,1
+60170,44,F,El Paso,South,Bronze,3,2409,0,Men's Fashion,cod,2/10/2020,1
+60171,75,F,Ward,South,Bronze,1,75,0,Beauty & Grooming,cod,1/10/2020,1
+60172,37,M,Washington,South,Bronze,1,150,0,Health & Sports,cod,1/10/2020,1
+60173,51,F,Drasco,South,,1,1311.2,0,Entertainment,cod,1/10/2020,1
+52965,59,M,Salt Lake City,West,Bronze,1,4137,0,Appliances,cod,1/10/2020,1
+60174,38,F,Baltimore,South,Bronze,1,215,0,Women's Fashion,cod,1/10/2020,1
+60175,67,M,Ormond Beach,South,,2,122,0,Superstore,cod,1/10/2020,1
+60176,42,M,Madera,West,Bronze,4,288.9,0,Women's Fashion,cod,1/10/2020,1
+60177,18,M,Marchand,Northeast,Gold,37,15800.1,0,Soghaat,cod,7/1/2021,0
+59471,47,M,D Lo,South,Bronze,1,1999,0,Mobiles & Tablets,cod,1/10/2020,
+60178,64,F,Albion,West,,1,1000,0,Mobiles & Tablets,cod,1/10/2020,1
+58082,59,M,Oklahoma City,South,Silver,32,722.1,0,Superstore,cod,11/21/2020,0
+60179,37,F,Monticello,Midwest,Bronze,1,89.9,0,Men's Fashion,cod,1/10/2020,1
+59284,49,M,Gouldsboro,Northeast,Bronze,9,603.1,0,Health & Sports,cod,8/6/2021,0
+42561,62,M,Grand Rapids,Midwest,Bronze,3,229,0,Kids & Baby,jazzwallet,1/10/2020,1
+50293,63,F,Saint Johns,Midwest,Gold,55,114812.92,4686.98,Mobiles & Tablets,cod,9/16/2021,0
+21947,58,M,Lower Waterford,Northeast,Bronze,7,653.5,0,Men's Fashion,cod,9/16/2021,0
+60180,75,F,Dixon Springs,South,Bronze,1,1784.9,0,Mobiles & Tablets,cod,1/10/2020,1
+60181,57,F,Chance,South,Bronze,3,825.1,0,Appliances,Easypay,1/10/2020,1
+5743,18,F,New Orleans,South,Bronze,12,822.7,0,Men's Fashion,Easypay,7/1/2021,0
+16163,63,M,Washington,South,Silver,13,670.9,0,Men's Fashion,cod,5/2/2021,0
+1616,43,M,Spring Dale,South,Bronze,4,531.1,0,Men's Fashion,cod,5/28/2021,0
+53044,36,F,Wileyville,South,Silver,21,4276.7,0,Women's Fashion,customercredit,6/8/2021,0
+800,35,M,Dayton,Midwest,Platinum,277,165276.745,5655.57,Mobiles & Tablets,cod,12/6/2021,0
+60182,54,F,Pike Road,South,Bronze,1,19.9,0,Men's Fashion,jazzwallet,1/10/2020,1
+15442,58,F,Hawley,Midwest,,5,196.9,0,Appliances,cod,12/24/2020,0
+56899,38,M,South Dennis,Northeast,Bronze,1,1017.2,800,Women's Fashion,cod,1/10/2020,1
+60111,65,F,Washington,South,Silver,29,3815.1,0,Home & Living,cod,9/15/2021,0
+31025,62,F,Honolulu,West,Platinum,201,22504.026,683.744,Men's Fashion,cod,11/3/2021,0
+60183,54,F,Atlanta,South,Bronze,3,956,0,Entertainment,cod,10/15/2020,1
+59810,24,M,Thoreau,West,Bronze,1,159.9,30,Mobiles & Tablets,cod,1/10/2020,1
+60184,73,M,National Stock Yards,Midwest,Bronze,2,182.4,0,Women's Fashion,cod,8/10/2020,1
+13798,26,M,Houston,South,Bronze,1,87.4,0,Home & Living,cod,1/10/2020,1
+31155,72,M,Gifford,Midwest,Bronze,10,913.5,60,Beauty & Grooming,cod,1/14/2021,0
+60185,47,F,Lowland,South,,,1529.8,0,Women's Fashion,cod,1/10/2020,1
+60186,23,F,Saint Anthony,Midwest,Bronze,1,142,0,Mobiles & Tablets,cod,1/10/2020,1
+24069,31,M,Burton,South,Bronze,2,77,0,Mobiles & Tablets,customercredit,1/10/2020,1
+60187,28,M,Beulah,Midwest,Bronze,7,560.9,0,Health & Sports,cod,2/10/2020,1
+2858,68,F,Ogden,West,Platinum,77,15167.8,120,Superstore,cod,11/7/2021,0
+32651,67,F,Wimauma,South,Bronze,2,1899.8,0,Mobiles & Tablets,Easypay,2/10/2020,1
+60188,52,F,Newfane,Northeast,Bronze,2,212.5,0,Women's Fashion,cod,1/10/2020,1
+34707,32,F,Fort Gay,South,Bronze,5,314.9,90,Kids & Baby,cod,7/23/2021,0
+48310,25,F,Carlock,Midwest,Bronze,2,234.2,0,Men's Fashion,cod,12/29/2020,0
+60189,56,M,Walker Springs,South,Bronze,5,1251.2,0,Women's Fashion,Easypay,7/27/2021,0
+5926,55,F,Blue Hill,Midwest,Bronze,2,108,0,Health & Sports,cod,1/10/2020,1
+12806,73,F,Arboles,West,Silver,25,1438.52,45.18,Men's Fashion,cod,8/3/2021,0
+60190,56,F,Bloxom,South,Bronze,2,296,0,Health & Sports,cod,11/23/2020,0
+60191,22,F,Richardson,South,Bronze,2,1320,0,Women's Fashion,cod,2/10/2020,1
+52131,49,F,Elsah,Midwest,Bronze,6,420.1,0,Men's Fashion,cod,8/1/2021,0
+60192,23,F,Galveston,South,Bronze,5,2998,0,Home & Living,cod,1/10/2020,1
+4923,22,M,Butler,South,Silver,18,1551.603,185.227,Health & Sports,cod,3/27/2021,0
+60193,31,F,Skaneateles Falls,Northeast,Bronze,1,849.9,110,Mobiles & Tablets,Easypay,1/10/2020,1
+60194,20,M,Austin,South,Bronze,1,398.5,0,Women's Fashion,cod,1/10/2020,1
+60195,37,F,Indian Mound,South,Bronze,1,93.5,0,Mobiles & Tablets,cod,1/10/2020,1
+60196,27,F,Caldwell,Midwest,Bronze,1,490,0,Beauty & Grooming,cod,1/10/2020,1
+57572,51,F,Fountainville,Northeast,Bronze,10,697.8,0,Men's Fashion,cod,11/21/2020,0
+60197,49,M,Alto,South,Bronze,1,125,0,Beauty & Grooming,cod,1/10/2020,1
+15949,51,M,San Bruno,West,Bronze,2,159.6,60,Soghaat,cod,1/10/2020,1
+57691,39,M,Roosevelt,Northeast,Bronze,1,159.6,120,Men's Fashion,customercredit,1/10/2020,1
+37539,58,M,Mineral Wells,South,Bronze,7,10892.3,0,Appliances,cod,3/1/2021,0
+58985,34,F,Oshtemo,Midwest,Bronze,2,225,0,Kids & Baby,cod,1/10/2020,1
+3100,56,M,Pittsburg,South,Gold,61,6322.75,0,Soghaat,cod,11/5/2021,0
+35749,19,F,Bellevue,Midwest,Silver,14,955.3,0,Men's Fashion,cod,10/22/2020,1
+459,57,F,Larrabee,Midwest,Gold,56,82093.464,13681.136,Mobiles & Tablets,easypay_voucher,10/4/2021,0
+60198,26,M,Southmayd,South,Bronze,,239.8,60,Men's Fashion,cod,1/10/2020,1
+60199,19,F,Big Sandy,South,Bronze,2,870.7,0,Women's Fashion,cod,1/10/2020,1
+57865,23,F,Manton,Midwest,Bronze,1,146.5,0,Entertainment,customercredit,1/10/2020,1
+49042,31,M,Candia,Northeast,Silver,25,2785.7,0,Superstore,cod,8/9/2021,0
+33118,34,M,Keslers Cross Lanes,South,Bronze,3,383.211,0,Beauty & Grooming,Easypay,12/20/2020,0
+41066,27,M,Water Mill,Northeast,Bronze,1,25,0,Mobiles & Tablets,cod,1/10/2020,1
+60200,58,M,Atlanta,South,Bronze,2,,0,Mobiles & Tablets,cod,2/10/2020,1
+59978,23,F,Medicine Park,South,Bronze,2,89.7,0,Kids & Baby,cod,12/26/2020,0
+59282,57,F,Beckwith,South,Bronze,3,156,0,Kids & Baby,cod,8/10/2020,1
+55314,60,F,Irvine,West,Bronze,1,35,0,Mobiles & Tablets,customercredit,1/10/2020,1
+60201,34,M,Padroni,West,Bronze,2,495,0,Soghaat,cod,1/10/2020,1
+16,59,M,Greenville,South,Silver,20,11868.899,1121.001,Women's Fashion,cod,12/11/2020,0
+56267,22,M,Pettibone,Midwest,Bronze,2,681.6,0,Women's Fashion,cod,7/10/2020,1
+25891,56,M,Jonesville,South,Bronze,1,24,0,Superstore,cod,1/10/2020,1
+60202,25,M,Tijeras,West,Bronze,1,1450,0,Mobiles & Tablets,cod,1/10/2020,1
+59743,31,M,Deer Park,South,Bronze,2,5900,0,Women's Fashion,Easypay,1/10/2020,1
+60203,39,M,Ravenna,South,Bronze,1,37.5,0,Beauty & Grooming,cod,1/10/2020,1
+60204,65,M,Chattanooga,South,Bronze,1,250,0,Mobiles & Tablets,cod,1/10/2020,1
+55183,47,F,Dewittville,Northeast,Silver,16,4918.9,29.4,Computing,Easypay,5/18/2021,0
+60205,27,F,Portland,West,Bronze,6,597.3,0,Men's Fashion,cod,4/16/2021,0
+48764,27,M,Des Moines,Midwest,Gold,75,242237.84,399.02,Women's Fashion,cod,12/5/2021,0
+58954,41,M,Port Richey,South,Silver,27,20822.169,1176.431,Women's Fashion,cod,5/18/2021,0
+57924,22,F,Bill,West,Bronze,2,42.5,0,Men's Fashion,Easypay,12/20/2020,0
+59140,62,F,Paterson,Northeast,Bronze,1,152.6,60,Men's Fashion,cod,1/10/2020,1
+54663,60,F,Rinard,Midwest,Gold,46,1709.09,130.47,Soghaat,cod,1/25/2021,0
+60206,70,M,Tupper Lake,Northeast,Bronze,1,7604,0,Computing,cod,1/10/2020,1
+58849,30,M,Glandorf,Midwest,Bronze,10,6462.4,110,Entertainment,cod,6/11/2020,1
+9406,39,F,Homestead,South,Silver,28,25094.22,572.08,Mobiles & Tablets,Payaxis,11/4/2021,0
+60207,32,M,Dante,South,Silver,15,37307.7,0,Women's Fashion,Payaxis,10/16/2020,1
+60208,60,F,Hillsboro,South,Bronze,,103.9,0,Health & Sports,cod,1/10/2020,1
+52170,57,M,Concord,South,Bronze,2,94,0,Soghaat,cod,1/10/2020,1
+60209,36,M,Newton Falls,Northeast,,1,59.9,0,Women's Fashion,cod,1/10/2020,1
+56341,19,F,Scioto Furnace,Midwest,Silver,33,4086.0575,1083.3625,Superstore,Easypay,9/16/2021,0
+59500,59,F,Topeka,Midwest,Bronze,5,18240,0,Mobiles & Tablets,Payaxis,11/10/2020,1
+17733,31,M,Davis Creek,West,Bronze,10,952.25,0,Men's Fashion,cod,11/4/2021,0
+60210,36,M,Lincoln,Midwest,Platinum,82,40527.543,0,Women's Fashion,Payaxis,11/10/2020,1
+9831,74,M,Jamaica,Northeast,Silver,13,1798.8,60,Appliances,cod,9/2/2021,0
+60211,32,M,Prosperity,South,Bronze,5,495.4,0,Men's Fashion,cod,5/30/2021,0
+32024,69,M,Laurel,West,Bronze,2,145,60,Men's Fashion,cod,1/10/2020,1
+5231,32,F,Richville,Midwest,Silver,15,1061.4,0,Women's Fashion,cod,8/1/2021,0
+16488,32,F,Essex,Northeast,Bronze,1,89.9,0,Mobiles & Tablets,cod,1/10/2020,1
+58902,58,M,San Diego,West,Bronze,1,179.9,0,Men's Fashion,customercredit,1/10/2020,1
+51242,44,F,Fort Harrison,West,Gold,41,6968.53435,1403.37665,Superstore,cod,12/6/2021,0
+35133,30,M,Macksville,Midwest,Gold,71,12609.62,110,Women's Fashion,cod,12/9/2021,0
+59869,31,M,Agoura Hills,West,Bronze,2,240,120,Mobiles & Tablets,cod,2/10/2020,1
+60212,50,F,Corbett,West,Bronze,1,490,0,Beauty & Grooming,cod,2/10/2020,
+25063,34,M,Boise,West,Bronze,12,1521.2,66,Men's Fashion,cod,12/21/2020,0
+41207,18,F,Bridgeport,West,Bronze,12,1317.5,55.6,Men's Fashion,cod,11/29/2020,0
+60213,55,M,Versailles,Midwest,Bronze,2,980,0,Beauty & Grooming,Payaxis,2/10/2020,1
+60214,29,F,Cambridge,South,Bronze,1,150,0,Health & Sports,cod,2/10/2020,1
+41780,50,F,Riverton,West,Bronze,3,1173.8,0,Women's Fashion,cod,10/15/2020,1
+5070,28,M,Estancia,West,Bronze,3,114.25,0,Home & Living,cod,2/10/2020,1
+27761,36,M,Neely,South,Silver,30,7073.075,1064.125,Men's Fashion,bankalfalah,12/4/2021,0
+60215,56,F,Joanna,South,Bronze,2,371,20,Women's Fashion,cod,10/23/2020,1
+7476,40,M,Cheshire,Northeast,,12,450.2,20,Beauty & Grooming,cod,2/24/2021,0
+59612,75,F,Tampa,South,Bronze,1,69.3,0,Health & Sports,cod,2/10/2020,1
+56500,63,F,Marion,Midwest,Bronze,12,825.44,91.16,Soghaat,Easypay_MA,10/7/2021,0
+12178,30,F,Athol,West,Gold,44,111287.9,72,Entertainment,bankalfalah,12/7/2021,0
+60216,27,M,Lawrenceburg,Midwest,Bronze,2,73,0,Mobiles & Tablets,cod,9/10/2020,1
+60217,31,M,Bethel,Midwest,Bronze,3,99.5,0,Women's Fashion,cod,10/23/2020,1
+54361,75,F,Tulsa,South,Bronze,1,64,0,Mobiles & Tablets,customercredit,2/10/2020,1
+60218,18,F,Maitland,South,Bronze,9,1658.3,0,Entertainment,cod,10/2/2021,0
+60219,57,F,Owenton,South,Bronze,2,97.8,0,Women's Fashion,cod,2/10/2020,1
+60220,30,F,Ewing,South,Bronze,1,200,0,Women's Fashion,cod,2/10/2020,1
+40660,67,M,Van Wyck,South,Bronze,5,1125.9,130,Women's Fashion,cod,10/14/2020,1
+60221,66,F,Killeen,South,Bronze,6,452.4,0,Men's Fashion,cod,11/17/2020,0
+60222,55,M,Westport,Northeast,Silver,25,6066.6,0,Men's Fashion,Payaxis,10/28/2020,1
+60223,25,M,Sacramento,West,Bronze,2,43.5,0,Soghaat,cod,2/10/2020,1
+59039,71,F,Union City,Northeast,Bronze,3,1243.7,110,Mobiles & Tablets,cod,2/10/2020,1
+36448,59,M,Carson,West,Bronze,2,849.9,110,Mobiles & Tablets,cod,2/10/2020,1
+57217,74,M,Opa Locka,South,Bronze,4,1172.47,377.43,Mobiles & Tablets,cod,12/11/2020,0
+60224,23,M,Colorado Springs,West,Bronze,9,871.6,0,Men's Fashion,cod,5/4/2021,0
+50940,55,F,Winfield,South,Silver,15,5572.55,1060,Men's Fashion,cod,11/14/2020,1
+60225,64,F,Escatawpa,South,Bronze,1,17,0,Home & Living,cod,2/10/2020,1
+49738,49,F,Damascus,South,Silver,16,687.6,0,Home & Living,cod,12/10/2020,0
+60226,55,M,Dallas,South,Bronze,4,544.8,0,Women's Fashion,cod,12/27/2020,0
+60227,74,F,Pleasantville,Midwest,Bronze,3,210.6,0,Mobiles & Tablets,cod,5/6/2021,0
+47461,73,M,Reno,West,Silver,17,26300.99,255.13,Superstore,Payaxis,12/5/2021,0
+60228,42,F,Cumberland,South,Bronze,4,448.8,0,Beauty & Grooming,cod,1/15/2021,0
+1555,42,M,Albany,Northeast,Gold,41,32365.586,2158.214,Mobiles & Tablets,cod,9/28/2021,0
+15553,46,M,Taylor,Midwest,Bronze,7,229.1,0,Soghaat,cod,4/2/2021,0
+60229,25,F,Judson,Midwest,Bronze,1,,0,Women's Fashion,cod,2/10/2020,1
+60230,25,F,Alva,West,Bronze,4,151.8,0,Men's Fashion,cod,2/10/2020,1
+8450,59,M,Arcata,West,Bronze,,272.1,100,Soghaat,cod,2/20/2021,0
+57673,18,F,Deposit,Northeast,Bronze,2,189.8,0,Men's Fashion,cod,10/27/2020,1
+4524,46,M,Box Elder,Midwest,Bronze,10,431.5,0,Home & Living,cod,3/17/2021,0
+32,62,M,Shaktoolik,West,Platinum,230,114272.94,16876.06,Men's Fashion,cod,11/9/2021,0
+64,40,F,Kincaid,Midwest,Platinum,156,142275.042,14124.783,Mobiles & Tablets,cod,11/4/2021,0
+60231,52,M,Metairie,South,Bronze,1,71.5,0,Mobiles & Tablets,cod,2/10/2020,1
+52844,61,F,Hartford,Northeast,Bronze,5,300.2,0,Women's Fashion,cod,9/4/2021,0
+40018,31,M,Gridley,Midwest,Bronze,4,180,0,Beauty & Grooming,Easypay,12/21/2020,0
+60232,37,F,Mount Hermon,South,Bronze,1,315.2,0,Computing,cod,2/10/2020,1
+14428,18,F,Huntington,South,Silver,,340.601,19.999,Kids & Baby,cod,1/21/2021,0
+30548,34,F,Gilbert,West,Bronze,1,100,0,Men's Fashion,cod,2/10/2020,1
+54100,28,M,Garrett,West,Gold,40,5928.2,744.7,Superstore,Easypay,1/17/2021,0
+60233,35,F,Huntingburg,Midwest,Bronze,1,105,0,Appliances,cod,2/10/2020,1
+10982,47,M,Columbia,South,Bronze,7,660.6,0,Women's Fashion,cod,11/28/2020,0
+60234,45,F,Putnam Valley,Northeast,Bronze,6,243.3,0,Mobiles & Tablets,cod,2/10/2020,1
+60235,41,M,Fort Hall,West,Bronze,2,135,0,Beauty & Grooming,cod,2/10/2020,1
+57748,57,M,Clearfield,West,Silver,13,3489.809,891.871,Home & Living,Payaxis,10/1/2021,0
+4257,59,F,Princeton Junction,Northeast,Silver,22,29719.7,1500,Soghaat,cod,12/16/2020,0
+57629,53,M,Stone Creek,Midwest,Bronze,11,5792.78,595.52,Appliances,bankalfalah,10/7/2021,0
+17482,52,F,Karlstad,Midwest,Silver,19,5944.52,20,Beauty & Grooming,cod,11/2/2021,0
+60236,47,M,North Hills,West,Bronze,1,59.9,0,Men's Fashion,cod,2/10/2020,1
+60237,41,F,Queens Village,Northeast,Bronze,1,100,0,Men's Fashion,cod,2/10/2020,1
+48759,26,M,Travis Afb,West,Silver,27,10948.938,194.45,Men's Fashion,cod,7/1/2021,0
+59149,72,M,Lanagan,Midwest,Bronze,1,234.8,0,Women's Fashion,cod,2/10/2020,1
+54613,66,M,Pemberton,Midwest,Bronze,1,397,0,Beauty & Grooming,cod,2/10/2020,1
+60238,25,M,Amo,Midwest,Bronze,1,20,0,Mobiles & Tablets,jazzwallet,2/10/2020,1
+22513,54,F,Tuba City,West,Bronze,7,369.8,20,Men's Fashion,customercredit,12/27/2020,0
+56849,40,M,Clayville,Northeast,,5,380,0,Men's Fashion,cod,10/21/2020,1
+20226,28,F,Walterboro,South,Bronze,3,263.5,20,Home & Living,Payaxis,2/19/2021,0
+60239,44,F,Hanover,Northeast,Bronze,1,22,0,Soghaat,cod,2/10/2020,1
+13113,30,F,Paola,Midwest,Bronze,7,,0,Soghaat,cod,10/30/2020,1
+60240,28,F,Mc Farlan,South,Bronze,2,1843.2,0,Men's Fashion,cod,2/10/2020,1
+60241,71,F,Danville,South,Bronze,2,455,0,Entertainment,cod,2/10/2020,1
+60242,50,F,Charlotte,South,,2,211.4,0,Health & Sports,cod,6/10/2020,1
+30627,35,F,Kila,West,Bronze,2,139.4,0,Computing,cod,4/5/2021,0
+60243,63,F,Deale,South,Bronze,6,174.2,0,Beauty & Grooming,cod,3/10/2020,1
+58801,33,M,Fairmont,South,Bronze,3,142.84,60,Beauty & Grooming,cod,2/10/2020,1
+60244,75,M,Atwood,South,Bronze,1,89.9,0,Men's Fashion,cod,2/10/2020,1
+58946,63,M,La Verkin,West,Bronze,4,401.7,0,Men's Fashion,cod,11/21/2020,0
+34919,53,M,Batchtown,Midwest,Gold,69,6623.46,286.39,Superstore,apg,12/7/2021,0
+58333,50,F,Birdeye,South,Silver,18,621.8,20,Men's Fashion,cod,1/13/2021,0
+60245,66,F,Hobart,Northeast,Bronze,1,49.5,0,School & Education,cod,2/10/2020,1
+60246,49,F,Mead,West,Bronze,2,610,0,Computing,cod,12/21/2020,0
+53884,64,F,Springfield,Northeast,Gold,42,7520.32,1164.28,Superstore,cod,4/7/2021,0
+14829,48,F,Gifford,Northeast,Bronze,3,3186.7,800,Men's Fashion,Easypay,9/2/2021,0
+60247,46,M,Henderson,South,Bronze,2,140,20,Superstore,cod,2/10/2020,1
+60248,71,M,Pontotoc,South,Bronze,4,311,0,Women's Fashion,cod,12/22/2020,0
+60249,38,M,Immaculata,Northeast,Bronze,1,100,0,Others,cod,2/10/2020,1
+42006,24,F,Garner,South,Bronze,7,435.4,100,Mobiles & Tablets,cod,12/2/2021,0
+60250,45,F,Blountville,South,Bronze,6,672.4,0,Mobiles & Tablets,cod,10/15/2020,1
+60251,23,M,Copalis Crossing,West,Bronze,5,676.9,287.6,Beauty & Grooming,cod,12/24/2020,0
+56245,53,M,Elsah,Midwest,Bronze,4,281.2,20,Mobiles & Tablets,cod,10/21/2020,1
+52213,28,M,Tabernash,West,Bronze,6,625.8,0,Kids & Baby,Easypay,3/10/2020,1
+54821,62,M,Elizabeth,West,Bronze,2,157.1,30,Entertainment,Easypay,3/22/2021,0
+60252,59,M,Maryville,Midwest,Bronze,1,29.9,0,Men's Fashion,cod,2/10/2020,1
+60253,40,F,Auburn,Northeast,Bronze,1,62.5,0,Men's Fashion,cod,2/10/2020,1
+60254,56,M,Bedford,Midwest,Bronze,1,146.5,0,Entertainment,cod,2/10/2020,1
+797,32,F,Abercrombie,Midwest,Silver,13,6475.29,3882.31,Women's Fashion,Easypay,12/30/2020,0
+57620,64,M,Mcclusky,Midwest,Bronze,2,89,0,Kids & Baby,cod,9/10/2020,1
+60255,56,F,Berea,South,Bronze,1,119.9,0,Men's Fashion,cod,2/10/2020,1
+60256,62,M,Ashland City,South,Bronze,3,200.2,80,Women's Fashion,cod,10/15/2020,1
+58555,66,M,Tununak,West,Bronze,1,540,0,Mobiles & Tablets,customercredit,2/10/2020,1
+36517,25,M,Marion,South,Silver,20,5254.3,340.6,Women's Fashion,cod,9/5/2021,0
+59566,64,M,Paden City,South,Silver,23,1653.788,102.952,Women's Fashion,cod,6/6/2021,0
+60257,43,M,Glidden,Midwest,Bronze,6,263,120,Men's Fashion,cod,11/10/2020,1
+6977,45,F,Yakima,West,,10,1367.01,156.89,Men's Fashion,Easypay_MA,12/21/2020,0
+23918,75,F,Shannon City,Midwest,Gold,35,3521.002,379.998,Men's Fashion,cod,12/7/2021,0
+60258,57,F,Wedowee,South,Bronze,2,330,0,Entertainment,cod,6/10/2020,1
+60259,48,M,Morrisville,Northeast,Bronze,1,39.5,0,School & Education,cod,2/10/2020,1
+56647,62,M,Mapleton,Midwest,Bronze,6,11840.7,0,Beauty & Grooming,cod,11/21/2020,0
+16523,55,F,Dallas,South,Bronze,,939.2,150,Men's Fashion,cod,9/1/2021,0
+60260,22,F,Warwick,South,Bronze,3,201.6,200,Superstore,cod,2/10/2020,1
+42324,32,F,Prescott,Midwest,Bronze,1,,0,Appliances,cod,2/10/2020,1
+56867,30,M,Summitville,Midwest,Bronze,1,72,0,Mobiles & Tablets,cod,2/10/2020,1
+55184,27,M,Kit Carson,West,Silver,19,29758.54,7257.26,Mobiles & Tablets,Easypay,3/27/2021,0
+60261,34,F,Wayne,Northeast,Bronze,1,149.9,0,Computing,cod,2/10/2020,1
+55079,33,F,La Conner,West,Bronze,1,170,20,Appliances,cod,2/10/2020,1
+59994,67,F,Cambridge,Northeast,Bronze,12,1784,0,Men's Fashion,cod,4/22/2021,0
+60262,60,F,Ackerman,South,Bronze,1,490,0,Beauty & Grooming,cod,2/10/2020,1
+60263,43,M,Baltimore,South,Bronze,1,89.9,0,Men's Fashion,cod,2/10/2020,1
+59466,18,F,Twain,West,Bronze,2,230,0,Women's Fashion,cod,10/5/2021,0
+59320,61,F,Needham,Northeast,Silver,19,463.825,0,Beauty & Grooming,cod,9/1/2021,0
+60264,53,F,Kasbeer,Midwest,Bronze,1,330,0,Women's Fashion,cod,2/10/2020,1
+3432,62,M,Abbeville,South,Bronze,2,1668.415,224.985,Computing,Easypay,12/25/2020,0
+567,43,M,Swiss,South,Silver,15,6167.705,0,Superstore,cod,9/6/2021,0
+60266,50,F,Crownsville,South,Bronze,2,161.8,0,Men's Fashion,cod,2/10/2020,1
+32892,67,M,Draper,Midwest,Bronze,11,989.2,0,Men's Fashion,cod,2/27/2021,0
+59681,51,F,Dublin,West,,5,469.5,0,Women's Fashion,cod,7/8/2021,0
+5689,67,M,Cataract,Midwest,Bronze,9,8042.5,0,Men's Fashion,cod,12/25/2020,0
+60267,58,F,Eben Junction,Midwest,Bronze,2,3780,0,Mobiles & Tablets,cod,3/10/2020,1
+59505,23,M,Chicago,Midwest,Bronze,2,209,30,Women's Fashion,cod,2/10/2020,1
+60268,49,F,Chatsworth,Midwest,Bronze,1,62.5,0,Men's Fashion,cod,2/10/2020,1
+55394,57,F,Stillwater,Northeast,Bronze,2,2136.6,0,Appliances,Payaxis,9/10/2020,1
+60269,66,M,Daytona Beach,South,Bronze,3,109.7,0,Men's Fashion,cod,2/10/2020,1
+60270,26,F,Elizabeth,South,Bronze,3,105.4,0,Mobiles & Tablets,cod,6/10/2020,1
+42138,37,M,West Cornwall,Northeast,Bronze,3,1850.3,1247.5,Entertainment,cod,8/3/2021,0
+56700,51,M,Hamilton,Northeast,Bronze,4,2326,120,Women's Fashion,Payaxis,11/10/2020,
+41276,47,F,Smithville,South,Bronze,7,2684.225,273.775,Appliances,cod,12/31/2020,0
+60271,60,M,South Glastonbury,Northeast,Bronze,3,325.1,0,Women's Fashion,cod,2/10/2020,1
+55208,58,M,Portsmouth,Northeast,Bronze,1,980,0,Mobiles & Tablets,Payaxis,2/10/2020,1
+55292,37,M,Spring Glen,Northeast,,1,980,0,Mobiles & Tablets,Payaxis,2/10/2020,1
+55408,50,F,Trinidad,West,Bronze,1,952.6,0,Appliances,Payaxis,2/10/2020,1
+60272,62,F,Petersham,Northeast,Bronze,1,101.7,0,Mobiles & Tablets,cod,2/10/2020,
+55701,62,M,Washington,South,Bronze,2,11819.9,0,Appliances,Payaxis,10/18/2020,1
+60273,43,F,Little Lake,West,Bronze,2,318,0,Women's Fashion,cod,2/10/2020,1
+59887,37,M,South Lake Tahoe,West,Bronze,1,183.3,0,Mobiles & Tablets,cod,2/10/2020,1
+55688,37,M,San Antonio,South,Bronze,5,412.8,0,Mobiles & Tablets,cod,8/21/2021,0
+60274,43,M,Rock,South,Bronze,4,609.2,20,Mobiles & Tablets,cod,10/16/2020,1
+53885,37,M,Paron,South,Bronze,3,242,0,Women's Fashion,cod,9/10/2020,1
+60275,22,F,Speculator,Northeast,Bronze,5,1912.5,0,Mobiles & Tablets,Easypay,10/19/2020,1
+60276,42,F,Warfield,South,Bronze,1,43,0,Beauty & Grooming,cod,2/10/2020,1
+60277,42,F,Mystic,Northeast,Bronze,1,119.8,0,Men's Fashion,cod,2/10/2020,1
+59156,57,F,Hendricks,Midwest,Bronze,1,920,0,Appliances,Payaxis,2/10/2020,1
+7850,55,M,Riviera,South,Bronze,1,279.5,0,School & Education,cod,2/10/2020,1
+59942,21,M,Westwood,West,Bronze,1,88.9,20,Mobiles & Tablets,cod,2/10/2020,1
+60278,21,M,Ninde,South,Bronze,1,50,0,Women's Fashion,cod,2/10/2020,1
+10301,24,M,Waverly,South,Bronze,1,4603,0,Entertainment,Payaxis,2/10/2020,1
+53484,48,M,Kailua Kona,West,Bronze,1,70,0,Beauty & Grooming,cod,2/10/2020,1
+60279,69,M,Middleburg,South,Bronze,1,799.5,0,Men's Fashion,Payaxis,2/10/2020,1
+57423,74,F,Ward Cove,West,Gold,42,8583.701,0,Women's Fashion,cod,12/9/2021,0
+60280,32,M,Adamsville,South,Bronze,6,339.5,0,Men's Fashion,cod,6/2/2021,0
+31775,25,M,Parsons,South,Bronze,4,923.8,0,Women's Fashion,cod,2/10/2020,1
+5079,53,M,Pray,West,Bronze,1,62,0,Soghaat,cod,2/10/2020,1
+59636,18,M,Newton,Northeast,Bronze,6,1185.45,0,Women's Fashion,cod,9/15/2021,
+60281,43,F,Bessemer,South,Bronze,5,5575.1,794.8,Appliances,Easypay,6/13/2021,0
+8546,28,F,Alma,Midwest,Platinum,137,112064.499,23031.951,Mobiles & Tablets,Payaxis,9/16/2021,0
+60282,40,F,Adamsville,South,Gold,36,23941.94,0,Women's Fashion,Payaxis,10/29/2020,1
+6923,38,F,Sylvania,South,Bronze,1,129.4,0,Appliances,jazzwallet,3/10/2020,1
+44879,60,F,Montrose,Midwest,Silver,26,36673.237,5314.663,Entertainment,Payaxis,11/4/2021,0
+60283,75,F,Leesburg,South,,2,72.5,0,Superstore,cod,3/10/2020,1
+33220,29,F,Chicago,Midwest,Silver,34,14866.694,1762.96,Women's Fashion,cod,12/3/2021,0
+44950,20,F,Clearfield,West,Gold,64,92610.305,17695.895,Entertainment,Easypay,8/6/2021,0
+42788,35,M,Middlesboro,South,Silver,22,20878.47,6123.23,Mobiles & Tablets,Easypay,7/3/2021,0
+60284,45,M,Howe,South,Bronze,1,81,0,Health & Sports,cod,3/10/2020,1
+59157,22,F,Sacramento,West,Bronze,3,3201.8,0,Mobiles & Tablets,Payaxis,10/28/2020,1
+46208,46,F,Lewisburg,Midwest,Bronze,11,18582.94,4997.86,Mobiles & Tablets,Easypay,12/27/2020,0
+60285,40,M,Okemah,South,Bronze,6,304.8,0,Men's Fashion,cod,9/27/2021,0
+44720,54,M,Trevor,Midwest,Silver,25,50743.55,7830.95,Mobiles & Tablets,easypay_voucher,7/2/2021,0
+60286,19,F,Allardt,South,Bronze,1,135,0,Women's Fashion,cod,3/10/2020,1
+48693,67,M,Foster,South,Silver,25,21171.66,4575.64,Mobiles & Tablets,Payaxis,6/27/2021,0
+58080,73,F,Richmond,South,Bronze,3,3542.83,1407.97,Mobiles & Tablets,Payaxis,3/19/2021,0
+60287,25,F,Wasilla,West,Bronze,11,15571.192,4012.208,Mobiles & Tablets,Easypay,6/6/2021,0
+46537,66,F,Charlotte,South,,8,9223.91,2385.49,Mobiles & Tablets,Payaxis,3/31/2021,0
+60288,68,M,Protection,Midwest,Bronze,1,35.9,0,Mobiles & Tablets,cod,3/10/2020,1
+58209,47,M,Elberfeld,Midwest,Bronze,1,,507.97,Mobiles & Tablets,Easypay,3/10/2020,
+59971,43,M,Monticello,Northeast,Silver,26,11485.4,0,Men's Fashion,Payaxis,6/10/2020,1
+60289,49,F,Ravencliff,South,Bronze,5,8636.33,2117.97,Mobiles & Tablets,easypay_voucher,12/21/2020,
+60290,53,M,Mogadore,Midwest,Silver,21,53423.76,9092.04,Mobiles & Tablets,easypay_voucher,5/3/2021,0
+60291,24,M,Moultonborough,Northeast,Bronze,1,1411.83,507.97,Mobiles & Tablets,Easypay,3/10/2020,1
+48111,73,F,Galt,West,Bronze,6,10056.02,3117.88,Mobiles & Tablets,Easypay,3/31/2021,0
+60292,37,M,Mangum,South,Bronze,4,547.74,96.66,Women's Fashion,Easypay,3/10/2020,1
+46257,59,F,Little Creek,South,Bronze,9,15605.22,5875.18,Mobiles & Tablets,Easypay,12/26/2020,0
+25435,26,M,Blunt,Midwest,Bronze,6,604.43,172.57,Computing,cod,9/15/2021,0
+60293,54,M,Carson,West,Bronze,3,1640.63,715.17,Superstore,Payaxis,10/25/2020,1
+46664,32,M,Maud,South,Bronze,3,1411.83,507.97,Mobiles & Tablets,Payaxis,11/14/2020,1
+40130,47,M,Pleasant Garden,South,Bronze,1,197.115,34.785,Entertainment,Easypay,3/10/2020,1
+60294,25,M,Port Lavaca,South,Bronze,2,11.5,0,Others,cod,3/10/2020,1
+59570,63,M,Covington,South,Bronze,8,348.701,79.999,Health & Sports,cod,11/21/2020,0
+60295,55,F,Highlands,South,Silver,24,6365.48,0,Computing,Payaxis,3/10/2020,1
+57734,52,M,Springtown,South,Bronze,1,102,18,Superstore,Payaxis,3/10/2020,1
+60296,35,M,Northport,South,Bronze,2,102,0,Home & Living,cod,3/10/2020,1
+59567,45,F,Port Isabel,South,Bronze,2,1248,0,Women's Fashion,cod,3/10/2020,1
+60297,67,M,Medway,Midwest,Bronze,1,1411.83,507.97,Mobiles & Tablets,Easypay,3/10/2020,1
+8123,59,M,Waterford,Midwest,Platinum,125,44725.87578,2169.07322,Appliances,jazzvoucher,12/9/2021,0
+56417,31,F,Rochester,Northeast,Bronze,11,20995.57,6485.53,Mobiles & Tablets,Payaxis,12/22/2020,0
+57258,55,F,Concord,Northeast,Silver,13,18525.94,3561.16,Mobiles & Tablets,Easypay,3/31/2021,0
+56413,64,M,Wilmington,South,Bronze,9,16369.915,4845.785,Mobiles & Tablets,Easypay,5/3/2021,0
+59751,50,M,Brandon,South,Bronze,3,1128.4,110,Mobiles & Tablets,cod,3/10/2020,1
+59668,25,M,Copake,Northeast,Bronze,9,653.26,11.94,Women's Fashion,customercredit,12/9/2021,0
+7401,44,M,Kite,South,Bronze,1,1785.5,0,Mobiles & Tablets,Easypay,3/10/2020,1
+7562,51,M,Shingle Springs,West,,24,19404.27,3444.73,Men's Fashion,easypay_voucher,12/4/2021,0
+60298,33,F,Copen,South,Bronze,1,189.3,0,Women's Fashion,cod,3/10/2020,1
+60299,26,F,Bethel Island,West,Bronze,2,440.8,20,Women's Fashion,cod,3/10/2020,1
+41444,38,M,Norwalk,Northeast,Bronze,1,230,0,Superstore,Payaxis,3/10/2020,1
+59472,53,M,Durham,South,Bronze,1,80.9,20,Men's Fashion,cod,3/10/2020,1
+60300,43,M,Corona,West,Bronze,2,354.3,0,Women's Fashion,cod,10/25/2020,1
+59404,50,F,Juliette,South,Bronze,11,907.05,38.05,Home & Living,Easypay_MA,12/21/2020,0
+60301,61,F,Force,Northeast,Bronze,8,14265,0,Mobiles & Tablets,Payaxis,12/10/2020,0
+36643,69,M,Birmingham,South,Bronze,2,46.6,0,Computing,jazzwallet,8/10/2020,1
+49045,66,M,San Bernardino,West,Bronze,1,2090,0,Mobiles & Tablets,cod,3/10/2020,1
+60302,36,F,Amarillo,South,Bronze,1,34,0,Beauty & Grooming,cod,3/10/2020,1
+2974,57,M,Clayton,South,Gold,52,61087.429,745.16,Appliances,cod,9/16/2021,0
+60303,22,M,Minneapolis,South,Bronze,2,159.8,0,Men's Fashion,cod,3/10/2020,1
+53629,30,F,Bend,West,Gold,75,17204.985,2159.215,Appliances,cod,11/8/2021,0
+7488,47,F,Pangburn,South,Silver,16,417.5,0,Kids & Baby,cod,2/19/2021,
+60304,35,M,Cranbury,Northeast,Bronze,1,175,0,Women's Fashion,cod,3/10/2020,1
+41431,62,F,Roann,Midwest,Bronze,4,201.11,35.49,Computing,Payaxis,3/10/2020,1
+56597,58,F,Warrensville,South,Bronze,5,7650,800,Mobiles & Tablets,Payaxis,3/10/2020,1
+60305,42,F,North Middletown,South,Bronze,1,100,0,Men's Fashion,cod,3/10/2020,1
+163,70,M,Manning,Midwest,Gold,42,9270.9,250,Men's Fashion,cod,9/14/2021,0
+1060,42,M,Pocahontas,Midwest,Bronze,6,26432.1,0,Mobiles & Tablets,cod,1/2/2021,0
+17597,64,F,Birmingham,South,Bronze,4,195,105,Health & Sports,Payaxis,3/10/2020,1
+54504,75,F,Washington Boro,Northeast,,2,225.2,0,Women's Fashion,cod,3/10/2020,1
+9187,53,F,Portsmouth,Midwest,Bronze,6,1808.605,423.495,Beauty & Grooming,Easypay,12/21/2020,0
+29505,19,F,Swans Island,Northeast,Bronze,1,149.5,0,Superstore,cod,3/10/2020,1
+15672,28,F,Dayton,Midwest,Gold,53,17432.583,5140.637,Mobiles & Tablets,Easypay_MA,6/6/2021,0
+60306,55,M,Barker,South,Bronze,2,149.9,0,Men's Fashion,cod,3/10/2020,1
+60307,53,M,Indio,West,Bronze,2,2227.745,651.955,Mobiles & Tablets,Payaxis,3/10/2020,1
+42108,28,F,Cherry Tree,Northeast,Gold,65,86964.55,18760.25,Mobiles & Tablets,Easypay,9/4/2021,0
+31449,46,M,Twin Branch,South,Platinum,84,57402.937,2916.683,Beauty & Grooming,cod,12/6/2021,0
+19117,28,M,Stennis Space Center,South,Bronze,3,756.6,0,Mobiles & Tablets,Easypay,12/20/2020,0
+4738,31,F,Mankato,Midwest,Bronze,6,271.8,0,Men's Fashion,cod,12/29/2020,0
+60308,58,F,Yellville,South,Silver,15,879,60,Mobiles & Tablets,cod,10/18/2020,1
+60309,45,F,Brimfield,Northeast,Bronze,1,29.9,0,Men's Fashion,cod,3/10/2020,1
+21328,31,M,White Plains,Northeast,Bronze,1,85,0,Mobiles & Tablets,cod,3/10/2020,1
+7915,59,F,Vernon,West,Silver,23,5589.912,1038.028,Appliances,Easypay,12/28/2020,0
+60310,49,M,Amite,South,Bronze,1,327.8,0,Entertainment,cod,3/10/2020,1
+60311,26,F,Brownsville,South,Bronze,1,1411.83,507.97,Mobiles & Tablets,Payaxis,3/10/2020,1
+16578,53,M,Saint Olaf,Midwest,Silver,26,2038.03,120.67,Women's Fashion,Easypay,8/5/2021,0
+30423,35,F,Anniston,South,Bronze,1,1411.83,507.97,Mobiles & Tablets,Payaxis,3/10/2020,1
+30228,59,M,Provo,West,Bronze,12,11455.4,3466.2,Appliances,Easypay,12/26/2020,0
+60312,73,M,Syracuse,Northeast,Bronze,4,711.8,0,Beauty & Grooming,cod,10/1/2021,
+10896,55,F,Wounded Knee,Midwest,Platinum,133,70136.02398,9988.97602,Mobiles & Tablets,cod,11/4/2021,0
+14876,39,M,Odessa,South,Silver,31,24101.91,3912.99,Mobiles & Tablets,cod,11/3/2021,0
+60313,52,F,Rock Point,West,Bronze,5,10177.53,1227.97,Mobiles & Tablets,Easypay,12/26/2020,0
+11816,34,F,Fort Worth,South,,20,10318.43,740.37,Men's Fashion,cod,9/28/2021,0
+60314,30,M,Theodore,South,Bronze,,6956.91,1811.89,Mobiles & Tablets,easypay_voucher,12/27/2020,0
+60315,29,F,Delhi,South,Bronze,3,3713.46,945.94,Mobiles & Tablets,easypay_voucher,12/28/2020,0
+39136,50,F,Pocono Manor,Northeast,Silver,32,35575.675,5546.125,Appliances,Easypay_MA,12/6/2021,0
+60316,67,F,Green Bay,Midwest,Bronze,1,70,0,Entertainment,cod,3/10/2020,1
+59922,32,M,Du Bois,Northeast,Silver,20,1475.8,40,Men's Fashion,cod,8/3/2021,0
+60317,42,F,Ellerbe,South,Bronze,1,42.4,0,Men's Fashion,Easypay,3/10/2020,1
+35527,60,M,Washington,South,Bronze,3,716.6,0,Beauty & Grooming,cod,9/12/2020,1
+60318,40,F,Wells,South,,1,199.5,0,Health & Sports,cod,3/10/2020,1
+44407,39,M,La Center,West,Bronze,1,565,0,Computing,Easypay,3/10/2020,1
+15245,65,M,Terlingua,South,Bronze,3,773.88,66.42,Appliances,Easypay,3/10/2020,1
+60319,67,M,Fort Pierce,South,Bronze,4,556.07,98.13,Home & Living,Payaxis,3/10/2020,1
+9335,61,F,Mapleton,Midwest,Bronze,4,1090.8,0,Women's Fashion,cod,10/7/2021,0
+29516,48,F,Disputanta,South,Bronze,4,777.4,0,Men's Fashion,cod,7/19/2021,0
+29912,58,F,Monroeville,South,Bronze,4,755.5,0,Home & Living,cod,12/21/2020,0
+42113,65,F,San Diego,West,Gold,47,50755.5,10580.4,Mobiles & Tablets,Easypay,9/19/2021,0
+41280,49,M,Elfin Cove,West,Gold,,8458.922,1768.278,Mobiles & Tablets,bankalfalah,9/14/2021,0
+60320,57,M,Pocasset,South,Bronze,,52,0,Beauty & Grooming,cod,3/10/2020,1
+60321,58,F,Palmer,Midwest,Bronze,2,56.3,0,Health & Sports,cod,3/10/2020,1
+15960,51,F,Seaford,South,Platinum,120,9142.487,780.013,Soghaat,cod,10/5/2021,0
+60322,72,M,Varney,South,Bronze,1,60,0,Women's Fashion,cod,3/10/2020,1
+60323,39,F,Cambra,Northeast,Bronze,1,50,0,Beauty & Grooming,cod,3/10/2020,1
+28412,38,M,Boston,Northeast,Bronze,12,4930.2,0,Appliances,cod,12/10/2020,0
+42196,71,F,Pompeys Pillar,West,Bronze,5,229.7,0,Women's Fashion,Easypay,12/21/2020,0
+15012,70,F,Benton,Midwest,Bronze,11,10883.835,1559.665,Mobiles & Tablets,Payaxis,11/26/2020,0
+48324,31,M,Monterey Park,West,Gold,70,11327.485,1012.515,Women's Fashion,easypay_voucher,9/1/2021,0
+8005,43,M,Lake Norden,Midwest,Platinum,104,,4243.09404,Superstore,customercredit,11/7/2021,0
+41409,37,M,Eunice,Midwest,Bronze,4,362.39,111.01,Men's Fashion,Easypay,2/1/2021,0
+48418,32,F,Gordonville,Northeast,Bronze,3,62,0,Men's Fashion,cod,3/10/2020,1
+36591,53,F,Waipahu,West,Bronze,3,4732.9,0,Others,bankalfalah,4/28/2021,0
+9069,32,M,Bushton,Midwest,Bronze,4,1646.675,403.825,Superstore,Easypay,12/27/2020,0
+60324,26,F,Brockway,West,Bronze,1,62.5,0,Men's Fashion,cod,3/10/2020,1
+59474,66,F,Gibbon Glade,Northeast,Gold,50,37645.92,5178.23,Soghaat,jazzwallet,7/25/2021,0
+55347,55,F,Madison,Midwest,,43,833.002,49.998,Soghaat,cod,12/31/2020,0
+60325,25,F,Dermott,South,Bronze,1,8500,0,Mobiles & Tablets,Easypay,3/10/2020,1
+56972,54,M,Lake Helen,South,Bronze,4,3629.7,0,Appliances,cod,12/25/2020,0
+60326,52,F,Society Hill,South,Bronze,3,108.9,0,Appliances,cod,3/10/2020,1
+42056,67,F,Pep,West,Bronze,1,900,1800,Appliances,cod,3/10/2020,1
+55582,21,M,Creedmoor,South,Silver,24,4297.01,20,Women's Fashion,cod,12/3/2021,0
+60327,22,M,Chassell,Midwest,Bronze,10,18122,2100,Mobiles & Tablets,Payaxis,8/9/2021,0
+52670,45,F,Derby,Midwest,Platinum,120,9619.11225,2664.81775,Superstore,Easypay,11/4/2021,0
+60328,40,M,Greenville,South,Bronze,10,14548,3896,Mobiles & Tablets,Payaxis,3/31/2021,0
+41594,45,F,Westline,Northeast,Bronze,3,4461.975,765.025,Appliances,Easypay,12/26/2020,0
+55979,62,F,Streeter,Midwest,Bronze,2,74.9,0,Beauty & Grooming,cod,9/11/2020,1
+13440,64,M,Dupo,Midwest,Bronze,2,2227.745,651.955,Mobiles & Tablets,Easypay,7/11/2020,1
+44611,38,M,Malone,Midwest,Platinum,124,146532.661,27078.839,Mobiles & Tablets,Easypay,9/1/2021,0
+44827,32,M,Herndon,Northeast,Silver,,35093.634,7565.766,Mobiles & Tablets,Easypay,9/6/2021,0
+55304,23,F,Henderson,West,Bronze,3,100.999,20.001,Home & Living,cod,3/10/2020,1
+60329,53,M,East Tawas,Midwest,Bronze,1,200,0,Women's Fashion,cod,3/10/2020,1
+45330,35,M,Uniontown,South,Silver,22,39715.506,7412.394,Mobiles & Tablets,Easypay,6/6/2021,0
+44869,68,F,Wilmington,South,Bronze,11,18038.348,4228.752,Mobiles & Tablets,Easypay,6/19/2021,
+1125,18,F,Andover,Northeast,Bronze,6,648.5,0,Health & Sports,cod,10/8/2021,0
+60330,67,M,Fort Calhoun,Midwest,Bronze,,849.9,110,Mobiles & Tablets,Easypay,3/10/2020,1
+53617,56,M,Gallatin,Midwest,Bronze,2,879.8,110,Home & Living,cod,3/10/2020,1
+60331,71,F,South Egremont,Northeast,Bronze,1,100,0,Superstore,cod,3/10/2020,1
+44884,47,F,Charleston,South,Bronze,5,7188.47,1952.13,Mobiles & Tablets,Easypay,1/4/2021,0
+60332,20,F,Cumberland,South,Bronze,1,1411.83,507.97,Mobiles & Tablets,Payaxis,3/10/2020,1
+60333,30,F,Solebury,Northeast,Bronze,4,5329.68,1391.02,Mobiles & Tablets,Payaxis,4/18/2021,0
+60334,73,M,Pella,Midwest,Bronze,2,441.4,0,Mobiles & Tablets,cod,3/10/2020,1
+45062,64,F,Shaktoolik,West,Bronze,9,11925.229,2750.271,Mobiles & Tablets,Easypay,6/19/2021,0
+11289,62,F,Mount Clare,South,Gold,40,8731.0675,1115.9075,Women's Fashion,cod,7/2/2021,0
+60335,66,M,Merrillville,Midwest,Bronze,1,109.9,0,Men's Fashion,cod,3/10/2020,1
+60336,52,M,Unalakleet,West,Bronze,1,123,20,Mobiles & Tablets,cod,3/10/2020,1
+60337,72,F,Glen Allen,South,Bronze,5,6189.9,0,Mobiles & Tablets,Payaxis,3/10/2020,1
+60338,24,F,North Yarmouth,Northeast,Bronze,1,59.9,0,Women's Fashion,cod,3/10/2020,1
+60339,67,M,Marlborough,Northeast,Gold,35,18186.89,235.13,Women's Fashion,Payaxis,9/16/2021,0
+60340,45,M,Philip,Midwest,Bronze,1,120,0,Men's Fashion,cod,3/10/2020,1
+60341,62,F,Birmingham,South,Bronze,1,1411.83,507.97,Mobiles & Tablets,Payaxis,3/10/2020,1
+41394,30,M,Abilene,South,Bronze,1,195,105,Superstore,Payaxis,3/10/2020,1
+19529,64,M,Hightown,South,Platinum,186,44187.274,6547.046,Health & Sports,Payaxis,11/7/2021,0
+56415,37,F,Buskirk,South,Bronze,8,15328.2,4057.4,Mobiles & Tablets,Easypay,4/18/2021,0
+60342,23,F,Mooreland,South,Bronze,1,180,0,Men's Fashion,cod,3/10/2020,1
+56384,56,F,Bloomington,South,Bronze,8,321.275,72.575,Men's Fashion,cod,12/29/2020,0
+60343,21,F,Worthington,Northeast,Bronze,1,329.5,0,Men's Fashion,cod,3/10/2020,1
+44945,36,F,Speed,South,Bronze,1,0,0,Mobiles & Tablets,cod,3/10/2020,1
+38254,27,F,Hardy,South,Bronze,7,2759.6,405,Health & Sports,Payaxis,4/15/2021,0
+60344,33,M,Antes Fort,Northeast,Bronze,3,322.5,50,Computing,cod,12/13/2020,0
+56129,46,M,Heavener,South,Bronze,3,103,0,Mobiles & Tablets,cod,6/14/2021,0
+60345,40,M,Minneapolis,Midwest,Bronze,10,2842.4,501.6,Women's Fashion,Payaxis,3/10/2020,1
+45709,67,F,Hardin,West,Bronze,1,261.8,46.2,Mobiles & Tablets,Payaxis,3/10/2020,1
+60346,34,M,Belding,Midwest,Bronze,2,1700,300,Mobiles & Tablets,Easypay,3/10/2020,1
+60347,47,M,Natick,Northeast,Bronze,9,13338.55,4441.15,Mobiles & Tablets,Payaxis,12/13/2020,0
+44739,54,F,Hockingport,Midwest,Silver,20,6611.365,2242.035,Home & Living,Easypay,6/6/2021,0
+60348,29,F,Great River,Northeast,Bronze,1,261,0,Mobiles & Tablets,cod,3/10/2020,1
+4797,68,M,Pryor,West,Platinum,241,85852.92197,19091.06803,Women's Fashion,Payaxis,12/4/2021,0
+59677,59,F,Sugarloaf Shores,South,Silver,16,2544.655,81.58,Women's Fashion,cod,11/7/2021,0
+41380,30,F,Millbrae,West,Bronze,1,1411.83,507.97,Mobiles & Tablets,Easypay,3/10/2020,1
+60349,59,F,Peekskill,Northeast,Silver,16,19756.27,3790.03,Mobiles & Tablets,Payaxis,12/13/2020,0
+60350,29,F,Walterboro,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+56066,67,M,Fullerton,Midwest,Bronze,1,70.8,0,Women's Fashion,cod,3/10/2020,1
+60351,64,F,Wagon Mound,West,Bronze,2,55,0,Kids & Baby,cod,3/10/2020,1
+60352,55,F,Taftville,Northeast,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60353,74,M,Jensen Beach,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60354,32,F,Pascagoula,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60355,38,F,Sparkman,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60356,31,M,Fair Oaks,West,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+41164,66,F,Schuylerville,Northeast,Bronze,4,2873.925,821.575,Mobiles & Tablets,Easypay,12/11/2020,0
+60357,28,M,Silver Creek,Northeast,Bronze,2,466.2,0,Beauty & Grooming,cod,3/10/2020,1
+59710,23,M,Iliff,West,Bronze,10,562.4,80,Beauty & Grooming,cod,5/28/2021,0
+60358,34,M,Knoxville,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60359,32,F,Pasadena,West,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+60360,59,M,Storrie,West,Bronze,1,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+11825,44,M,Roxboro,South,Bronze,,223.5,0,Computing,cod,3/10/2020,1
+56828,75,M,Scott Bar,West,Bronze,1,1450,0,Mobiles & Tablets,cod,3/10/2020,
+60361,48,M,Tampa,South,Bronze,,849.9,110,Mobiles & Tablets,cod,3/10/2020,1
+37271,22,F,Alto,South,Bronze,8,1919.97,148.23,Men's Fashion,bankalfalah,9/16/2021,0
+31180,61,F,Ridgeway,Midwest,Silver,20,814.841,79.999,Soghaat,cod,3/27/2021,
+38980,20,F,Johnstown,Northeast,Bronze,1,899.9,0,Mobiles & Tablets,cod,3/10/2020,
+60362,37,F,Dennis Port,Northeast,Bronze,,3899.7,600,Mobiles & Tablets,Payaxis,3/10/2020,1
+60363,37,M,Spokane,West,Bronze,1,2590,0,Mobiles & Tablets,cod,3/10/2020,1
+60364,54,M,Kimmell,Midwest,Bronze,3,375.2,20,Mobiles & Tablets,cod,10/27/2020,1
+18437,48,M,Salt Lake City,West,Bronze,9,4149,461.2,Mobiles & Tablets,Easypay,4/26/2021,0
+8687,64,F,Moreno Valley,West,Platinum,105,30136.07647,11486.87353,Women's Fashion,Easypay,11/7/2021,0
+60365,41,F,Lost Creek,South,Bronze,1,127.4,0,Health & Sports,cod,3/10/2020,1
+60366,73,F,Hialeah,South,Bronze,1,605.7,0,Women's Fashion,cod,4/10/2020,1
+6289,34,F,Washington,South,Bronze,2,130.1,0,Computing,cod,11/30/2020,0
+60367,47,F,Walsh,West,Silver,15,927.7,0,Beauty & Grooming,cod,12/10/2020,0
+60368,65,M,Sheppton,Northeast,Bronze,2,576.7,0,Mobiles & Tablets,Easypay,4/10/2020,1
+40316,49,M,Chicago,Midwest,Bronze,4,123.1,20,Men's Fashion,cod,4/10/2020,1
+51343,52,F,Whittier,West,Gold,41,54150.6,344.7,Women's Fashion,Payaxis,11/3/2021,0
+59862,53,M,Pownal,Northeast,Bronze,2,274,50,Mobiles & Tablets,cod,12/10/2020,0
+60369,38,F,Bostwick,South,Bronze,1,149.9,0,Men's Fashion,cod,4/10/2020,1
+44585,63,M,Whitmire,South,Gold,68,8300.864,1925.816,Home & Living,Easypay,11/6/2021,0
+6192,46,M,Wa Keeney,Midwest,Bronze,6,384.8,170.4,Men's Fashion,Payaxis,3/1/2021,0
+60370,43,F,Lake Bluff,Midwest,Bronze,4,284.2,0,Men's Fashion,cod,8/10/2020,1
+59792,42,M,Killeen,South,Silver,19,13397.9,0,Men's Fashion,Payaxis,5/10/2020,1
+60371,22,M,Deerbrook,Midwest,Bronze,5,645,0,Mobiles & Tablets,cod,11/27/2020,0
+60372,53,M,Fresno,West,Bronze,1,95,0,Women's Fashion,easypay_voucher,4/10/2020,1
+60373,41,F,Greenville,South,Bronze,1,93.5,0,Mobiles & Tablets,jazzwallet,4/10/2020,1
+42077,67,M,Jacksonport,South,Bronze,4,268.8,0,Soghaat,cod,1/21/2021,0
+60374,56,F,Lexington,South,Bronze,1,105,0,Superstore,cod,4/10/2020,1
+5417,70,M,Loyall,South,Silver,22,11350.97,2575.43,Women's Fashion,cod,11/6/2021,0
+43297,36,M,Eva,South,Bronze,2,291.8,0,Health & Sports,cod,4/10/2020,1
+59694,75,F,Hampton,South,Bronze,5,680,0,Entertainment,cod,6/26/2021,0
+60375,47,M,Friendship,Midwest,Bronze,2,420,0,Superstore,cod,5/10/2020,1
+60376,49,M,Moss Landing,West,Bronze,1,1800,0,Men's Fashion,cod,4/10/2020,1
+15610,53,F,Ty Ty,South,Bronze,6,1229.525,162.175,Appliances,Easypay_MA,4/27/2021,0
+49929,35,F,Texarkana,South,Bronze,1,85,20,Men's Fashion,cod,4/10/2020,1
+60377,44,M,Buttzville,Northeast,Bronze,2,431.6,0,Women's Fashion,cod,4/10/2020,1
+55980,58,F,Volin,Midwest,Bronze,2,1894.5,150,Appliances,cod,10/26/2020,1
+60378,26,M,Farmington,Midwest,Bronze,1,1450,0,Mobiles & Tablets,cod,4/10/2020,1
+56284,71,F,Tacoma,West,Bronze,12,38212.6,0,Mobiles & Tablets,Payaxis,9/5/2021,0
+60379,53,M,Sharps,South,Bronze,1,,0,Mobiles & Tablets,cod,4/10/2020,1
+24584,69,M,Sedalia,West,Bronze,4,2162.5,0,Others,Payaxis,4/29/2021,0
+60380,62,F,Epping,Midwest,Bronze,2,110,0,Men's Fashion,cod,4/10/2020,1
+39002,63,F,Cherry Creek,Midwest,Silver,16,880.45,100,Superstore,cod,9/21/2021,0
+56256,46,M,Sweetwater,South,Bronze,1,849.9,110,Mobiles & Tablets,cod,4/10/2020,1
+60381,53,F,San Francisco,West,Bronze,1,120,0,Mobiles & Tablets,cod,4/10/2020,1
+60382,52,F,Pasadena,West,Bronze,7,1190.25,0,Women's Fashion,cod,2/20/2021,0
+8089,32,F,Keenes,Midwest,Bronze,5,1054.501,199.999,Soghaat,cod,4/10/2020,1
+60383,74,F,Plankinton,Midwest,Bronze,2,181.8,0,Women's Fashion,cod,4/10/2020,1
+60384,55,F,Beltrami,Midwest,Bronze,3,4796.2,400,Computing,cod,6/10/2020,1
+52877,71,M,Mcloud,South,Bronze,1,1878.4,0,Women's Fashion,cod,4/10/2020,1
+60385,43,F,Birmingham,South,Bronze,1,49.9,0,Beauty & Grooming,cod,4/10/2020,1
+5658,49,F,Pleasanton,West,Bronze,9,7638.19,2084.61,Mobiles & Tablets,easypay_voucher,9/16/2021,0
+49377,48,M,Etterville,Midwest,Bronze,1,105,0,Men's Fashion,cod,4/10/2020,1
+60386,42,F,Cuyama,West,,3,387,0,Health & Sports,cod,5/10/2020,1
+60387,54,F,Jena,South,Bronze,1,490,0,Beauty & Grooming,cod,4/10/2020,1
+11136,34,M,Horse Creek,West,Bronze,10,915.74,187.76,Appliances,Easypay_MA,8/1/2021,0
+60388,60,F,Millsap,South,Bronze,1,153,0,Mobiles & Tablets,cod,4/10/2020,1
+60389,24,M,New London,Northeast,Bronze,1,1949.7,930,Mobiles & Tablets,cod,4/10/2020,1
+60390,43,M,Stottville,Northeast,Bronze,2,67,0,Computing,cod,4/10/2020,1
+60391,39,F,Siletz,West,Silver,23,2183.5,20,Health & Sports,cod,9/2/2021,0
+59831,30,F,Laguna,West,Bronze,1,145,0,Beauty & Grooming,cod,4/10/2020,1
+46258,67,M,East Worcester,Northeast,Bronze,2,14179,0,Entertainment,cod,4/10/2020,1
+59622,73,M,Mobile,South,Bronze,2,120,80,Women's Fashion,cod,4/10/2020,1
+60392,73,F,Montgomery,South,Bronze,1,135,0,Women's Fashion,cod,4/10/2020,1
+59685,34,F,Portageville,Midwest,Bronze,3,214.7,40,Health & Sports,cod,12/13/2020,0
+59298,33,M,Mountain View,South,Bronze,7,557.3,0,Men's Fashion,cod,9/23/2021,0
+56657,27,F,Mcintosh,Midwest,Bronze,5,560,0,Men's Fashion,Easypay,6/11/2020,1
+60393,54,M,Tacoma,West,Bronze,2,18696,0,Mobiles & Tablets,Payaxis,4/10/2020,1
+18041,62,F,East Troy,Midwest,Bronze,3,784.1,40,Home & Living,cod,11/13/2020,1
+49458,42,F,Miami,South,Bronze,1,105,0,Women's Fashion,cod,4/10/2020,1
+60394,68,M,Hyattsville,South,Bronze,6,470.7,80,Beauty & Grooming,cod,10/10/2020,1
+60395,28,M,Sun Valley,West,Bronze,1,139.9,0,Mobiles & Tablets,cod,4/10/2020,1
+7715,65,F,Aiken,South,Bronze,10,740.5,90,Men's Fashion,cod,10/17/2020,1
+50593,72,M,Bronx,Northeast,Gold,55,4168.3,25,Men's Fashion,cod,7/30/2021,0
+28704,46,M,Fort Dick,West,Bronze,5,401.301,29.999,Men's Fashion,cod,8/10/2020,1
+58017,47,M,Saint Michael,Northeast,Bronze,1,849.9,110,Mobiles & Tablets,cod,4/10/2020,1
+60396,61,M,Keo,South,Bronze,3,368.8,0,Mobiles & Tablets,cod,10/21/2020,1
+39442,51,M,Aiken,South,Bronze,1,152.6,0,Health & Sports,cod,4/10/2020,1
+23760,47,F,Monterey,West,Bronze,2,1127.84,31.96,Mobiles & Tablets,Easypay_MA,8/11/2020,1
+15377,52,F,Staten Island,Northeast,Silver,20,1833.135,350.39,Entertainment,bankalfalah,6/21/2021,0
+60397,47,M,White Pine,South,Bronze,1,59.9,0,Others,Easypay,4/10/2020,1
+60398,49,M,Winston Salem,South,Bronze,4,319.8,0,Men's Fashion,cod,5/10/2020,1
+6851,21,F,Heart Butte,West,Silver,25,1363.74,105.7,Beauty & Grooming,easypay_voucher,9/15/2021,0
+60399,66,F,Beech Bluff,South,Bronze,1,85,0,Mobiles & Tablets,Easypay,4/10/2020,1
+60400,56,F,Albertville,Midwest,Silver,13,1332.7,0,Beauty & Grooming,cod,7/28/2021,0
+60401,70,M,Crowley,South,Bronze,3,,0,Women's Fashion,cod,10/15/2020,1
+60402,72,F,Makinen,Midwest,Bronze,1,492.2,0,Women's Fashion,cod,4/10/2020,1
+51065,18,F,Middletown,Northeast,Silver,29,8116.174,1284.206,Women's Fashion,Easypay,1/25/2021,0
+60403,31,M,Kingsford,Midwest,Bronze,1,85,0,Mobiles & Tablets,cod,5/10/2020,1
+60404,19,F,Sterling,South,Bronze,2,2350,0,Mobiles & Tablets,Payaxis,5/10/2020,1
+42888,50,M,Norfork,South,Silver,13,6445.597,170.003,Beauty & Grooming,cod,2/22/2021,0
+60405,72,M,Lafayette,South,Bronze,3,272.7,0,Appliances,cod,5/10/2020,1
+50457,56,M,Harold,South,Silver,21,5399.3,0,Appliances,cod,5/27/2021,0
+50598,24,M,Burlington,Northeast,Bronze,3,618.9,0,Appliances,Payaxis,10/5/2021,0
+60406,20,M,Martinsburg,Midwest,Silver,34,21634.48,5620,Beauty & Grooming,cod,11/21/2020,0
+5769,22,F,Whittier,West,Platinum,216,193798.182,21494.318,Mobiles & Tablets,Easypay,12/6/2021,0
+2325,64,M,Dublin,South,Silver,14,568.125,67.775,Men's Fashion,Payaxis,10/31/2020,1
+60407,25,M,Nora,Midwest,Bronze,1,150,0,Health & Sports,cod,5/10/2020,1
+23774,72,M,Carle Place,Northeast,Bronze,4,371.4,0,Men's Fashion,cod,4/19/2021,0
+60408,28,F,Hammond,Midwest,Bronze,1,31,0,Soghaat,Easypay,5/10/2020,1
+60409,44,M,Palmerdale,South,,1,71.5,0,Others,cod,5/10/2020,1
+60410,58,F,Port Saint Lucie,South,Bronze,3,1148.9,110,Mobiles & Tablets,cod,5/10/2020,1
+719,20,M,Tuppers Plains,Midwest,,9,5865.298,675.602,Mobiles & Tablets,easypay_voucher,6/16/2021,0
+49692,73,M,Berea,South,Platinum,108,20562.5,0,Women's Fashion,Easypay,9/2/2021,0
+13899,60,F,Hydetown,Northeast,Bronze,1,15.9,0,Mobiles & Tablets,cod,5/10/2020,1
+210,58,F,Mc Clure,Midwest,Silver,19,13725.28,3100.82,Superstore,Payaxis,6/27/2021,0
+57475,57,F,Cowley,West,Bronze,2,1014.9,110,Beauty & Grooming,cod,5/10/2020,1
+59158,69,M,Cleveland,Midwest,Platinum,198,70651.296,2041.194,Women's Fashion,cod,12/9/2021,0
+57214,59,M,Nashville,South,Bronze,2,862.4,110,Kids & Baby,cod,5/10/2020,1
+58784,32,F,Flint,Midwest,Bronze,7,2846.7,610,Women's Fashion,cod,8/11/2020,1
+57917,47,M,Springfield,Northeast,Bronze,2,2459.7,420,Mobiles & Tablets,Payaxis,5/10/2020,1
+820,39,M,Webster,South,Silver,13,13283.66,903.14,Men's Fashion,cod,3/25/2021,0
+60411,51,M,Fort Lauderdale,South,Bronze,6,8666,0,Mobiles & Tablets,Payaxis,5/10/2020,1
+60412,35,F,Niagara Falls,Northeast,Bronze,1,72,0,Mobiles & Tablets,cod,5/10/2020,1
+60413,29,M,Mancos,West,Bronze,3,8189.9,0,Appliances,Payaxis,5/10/2020,1
+34293,36,M,Belk,South,Bronze,1,29.9,0,Men's Fashion,Payaxis,5/10/2020,1
+60414,30,M,Bryant,Midwest,Bronze,3,251.3,0,Men's Fashion,cod,12/22/2020,0
+41882,50,M,Monroe,South,Bronze,2,3047.5,0,Mobiles & Tablets,Easypay,5/10/2020,1
+34735,18,F,Marshalls Creek,Northeast,Bronze,1,490,0,Beauty & Grooming,cod,5/10/2020,1
+8756,50,F,Seabrook,South,Bronze,1,1499.8,420,Mobiles & Tablets,cod,5/10/2020,1
+60415,72,M,Van Buren,Midwest,Bronze,,56,0,Men's Fashion,cod,5/10/2020,1
+2548,23,M,Portsmouth,South,Bronze,12,1134.86,47.64,Beauty & Grooming,cod,4/27/2021,0
+60416,68,F,Gordo,South,Bronze,1,1785.5,0,Mobiles & Tablets,cod,5/10/2020,1
+59745,19,M,Cole Camp,Midwest,Gold,38,33266.8,0,Appliances,Payaxis,6/10/2020,1
+42715,40,F,Moretown,Northeast,Bronze,5,431.4,0,Men's Fashion,cod,7/6/2021,0
+60417,20,M,Lesterville,Midwest,Bronze,,90,0,Men's Fashion,cod,5/10/2020,1
+50175,71,F,Cossayuna,Northeast,Bronze,3,1287.1,0,Women's Fashion,cod,2/20/2021,0
+60418,25,F,Hebbronville,South,Bronze,3,294.7,0,Men's Fashion,cod,12/23/2020,0
+60419,64,F,Felton,Northeast,Bronze,1,72,0,Appliances,jazzwallet,5/10/2020,1
+60420,57,M,Mooers,Northeast,Bronze,5,7600,0,Appliances,Payaxis,9/10/2020,1
+60421,64,M,Avoca,Midwest,Bronze,2,119.8,0,Women's Fashion,cod,5/10/2020,1
+60422,60,F,Frakes,South,Bronze,3,499.7,20,Women's Fashion,cod,10/18/2020,1
+10186,43,F,Nahant,Northeast,Bronze,9,3115.285,1136.44,Women's Fashion,Easypay_MA,6/16/2021,0
+54840,75,F,Macon,South,Bronze,6,715.8,0,Mobiles & Tablets,cod,5/10/2020,1
+32486,31,F,Sacramento,West,Bronze,2,225,40,Mobiles & Tablets,cod,12/10/2020,0
+47563,29,M,Hilton,Northeast,Bronze,3,2324.82,1098.78,Appliances,Easypay,12/27/2020,0
+29815,21,F,Tacoma,West,Bronze,4,322.705,0,Computing,cod,5/7/2021,0
+53584,24,F,Fountain,Midwest,Bronze,2,110,0,Health & Sports,cod,5/10/2020,1
+60423,29,F,Pierce,Midwest,Bronze,,240,0,Health & Sports,cod,7/10/2020,1
+60424,26,F,Grand Rapids,Midwest,,1,1025,400,Mobiles & Tablets,Payaxis,5/10/2020,1
+60425,27,F,Holland,South,Bronze,1,1315,400,Mobiles & Tablets,Payaxis,5/10/2020,1
+60426,68,M,Goode,South,Bronze,1,38.9,0,Appliances,cod,5/10/2020,1
+60427,72,F,Leslie,South,Silver,27,23303.7,0,Women's Fashion,Payaxis,6/10/2020,1
+38368,56,F,Pineville,Midwest,Bronze,2,91.5,0,Kids & Baby,cod,5/10/2020,1
+54235,63,M,Stites,West,Platinum,79,52419.38,5487.82,Superstore,customercredit,11/1/2021,0
+60428,39,F,Walla Walla,West,Bronze,3,80,0,Beauty & Grooming,cod,5/10/2020,1
+60429,41,M,Glencoe,Midwest,Bronze,1,490,0,Beauty & Grooming,cod,5/10/2020,1
+60430,30,M,Decatur,South,Bronze,1,78.5,0,Mobiles & Tablets,cod,5/10/2020,1
+60431,41,M,Great Bend,Northeast,Bronze,1,111,0,Superstore,cod,5/10/2020,1
+20648,19,M,Nahma,Midwest,Silver,19,28135.019,4582.775,Beauty & Grooming,cod,12/27/2020,0
+60432,64,M,Millwood,South,Bronze,2,208.9,0,Mobiles & Tablets,cod,5/10/2020,1
+60433,56,M,Owensboro,South,Bronze,2,999.9,110,Beauty & Grooming,cod,5/10/2020,1
+60434,52,M,El Paso,South,Bronze,1,127.4,0,Health & Sports,cod,6/10/2020,1
+60435,63,M,Los Angeles,West,Bronze,4,409.9,0,Entertainment,cod,4/1/2021,0
+48666,32,M,Willard,South,Bronze,3,317.5,0,Mobiles & Tablets,cod,5/19/2021,0
+60436,64,F,Trenton,Northeast,Bronze,1,100,0,Men's Fashion,cod,6/10/2020,1
+60437,49,M,Start,South,Bronze,4,355.9,0,Health & Sports,Payaxis,6/10/2020,1
+41877,29,F,Pinckard,South,Bronze,9,534.405,0,Computing,cod,9/20/2021,0
+60438,69,F,Lily,Midwest,Bronze,4,175,0,Home & Living,Payaxis,6/10/2020,1
+60439,28,F,New Madison,Midwest,Bronze,6,1219.2,0,Women's Fashion,cod,6/10/2020,1
+60440,57,M,Harrell,South,Bronze,1,540,0,Entertainment,cod,6/10/2020,1
+60441,30,M,Akron,Midwest,Bronze,3,3521.5,0,Men's Fashion,Payaxis,9/4/2021,0
+60442,51,F,New York City,Northeast,Bronze,1,132.5,0,Appliances,cod,6/10/2020,1
+60443,44,F,Rutherford,South,Bronze,6,399.9,0,Women's Fashion,cod,6/10/2020,1
+59790,28,M,Waterport,Northeast,Bronze,8,3684.64,0,Mobiles & Tablets,cod,12/31/2020,0
+57804,47,F,Barnesville,South,Bronze,3,405,0,Men's Fashion,customercredit,10/19/2020,1
+60444,68,F,Bozeman,West,Bronze,1,29.9,0,Men's Fashion,cod,6/10/2020,1
+58915,23,M,Shoreham,Northeast,Bronze,1,12.5,0,Mobiles & Tablets,cod,6/10/2020,1
+55590,68,M,Badger,Midwest,Bronze,2,75.9,0,Health & Sports,cod,6/10/2020,1
+2079,59,M,Georgetown,South,Gold,39,4585.3,120,Men's Fashion,cod,6/25/2021,0
+60445,43,F,Wallisville,South,Bronze,2,150.8,0,Health & Sports,cod,5/29/2021,0
+4597,20,F,Milwaukee,Midwest,Bronze,3,271.4,0,Mobiles & Tablets,cod,4/19/2021,0
+51188,52,F,Manteno,Midwest,Silver,34,2603.9,0,Beauty & Grooming,cod,9/1/2021,0
+56907,30,F,Olustee,South,Bronze,2,1099.9,0,Beauty & Grooming,cod,10/14/2020,1
+58999,48,F,Matoaka,South,Bronze,1,151.5,0,Women's Fashion,cod,6/10/2020,1
+51798,47,F,Seattle,West,Silver,14,381.3,0,School & Education,customercredit,7/11/2020,1
+59294,36,F,Lyndeborough,Northeast,Bronze,1,265,0,Women's Fashion,cod,6/10/2020,1
+60446,18,M,Taylorsville,Midwest,Bronze,5,761.4,0,Women's Fashion,cod,7/2/2021,0
+59920,62,F,Bellefonte,Northeast,Silver,16,717.8,0,Soghaat,easypay_voucher,1/30/2021,0
+60447,70,F,North Liberty,Midwest,Bronze,1,165.3,0,Computing,cod,6/10/2020,1
+60448,29,M,Mobile,South,Bronze,1,138.9,0,Mobiles & Tablets,cod,6/10/2020,1
+43955,31,F,Flint,Midwest,Bronze,9,537.9,0,Mobiles & Tablets,cod,10/19/2020,1
+60449,36,F,Salisbury,South,Bronze,1,149.9,0,Men's Fashion,jazzvoucher,6/10/2020,1
+60450,45,F,Fair Haven,Northeast,Bronze,1,105,0,Men's Fashion,cod,6/10/2020,1
+60451,68,F,Warren,Northeast,Bronze,2,132.25,0,Home & Living,cod,6/10/2020,1
+8911,42,F,Buffalo,Northeast,Silver,21,2318.5,0,Mobiles & Tablets,jazzwallet,12/20/2020,0
+60452,68,F,Montclair,West,Bronze,,1959.9,0,Men's Fashion,cod,6/10/2020,1
+60453,38,F,Annandale,Midwest,Bronze,1,180,0,Men's Fashion,cod,6/10/2020,1
+60454,56,M,Brooksville,South,Bronze,3,89.7,0,Men's Fashion,cod,6/10/2020,1
+60455,26,F,Sutersville,Northeast,Bronze,1,44.4,0,Men's Fashion,cod,6/10/2020,1
+59646,40,M,Somerville,South,Bronze,7,389,20,Men's Fashion,cod,11/10/2020,1
+50861,70,F,Dunn,South,Bronze,1,109.9,0,Men's Fashion,cod,6/10/2020,1
+60456,43,F,Rome,South,Bronze,2,963,0,Health & Sports,cod,11/10/2020,1
+9674,45,M,Rogers,South,Bronze,2,770,0,Beauty & Grooming,cod,7/1/2021,0
+60457,65,F,Maitland,Midwest,Bronze,2,239.8,0,Mobiles & Tablets,Payaxis,6/10/2020,1
+60458,24,F,Garrett,Northeast,Bronze,1,72.5,0,Mobiles & Tablets,cod,6/10/2020,1
+60459,58,M,Petoskey,Midwest,Bronze,1,139.9,0,Mobiles & Tablets,cod,6/10/2020,1
+57838,41,F,Collison,Midwest,Bronze,1,103.8,0,Home & Living,cod,6/10/2020,1
+57381,29,F,Grove City,Midwest,Bronze,5,468,0,Men's Fashion,cod,9/5/2021,0
+50493,71,M,Pittsburgh,Northeast,Bronze,1,64.9,0,Men's Fashion,cod,6/10/2020,1
+2750,25,F,Minneapolis,Midwest,Bronze,4,6479.5,0,Appliances,cod,7/5/2021,0
+2256,57,M,Myrtle,Midwest,Bronze,6,483.8,0,Men's Fashion,cod,10/8/2021,0
+60460,48,F,Dunmore,South,Bronze,2,143.2,0,Computing,cod,1/28/2021,0
+60461,57,M,Santa Fe,South,Bronze,1,38,0,Mobiles & Tablets,cod,6/10/2020,1
+60462,51,M,Cleveland,Midwest,Bronze,4,203.9,0,Men's Fashion,cod,11/17/2020,0
+60463,67,F,Canton,Northeast,Silver,13,1605.6,0,Home & Living,cod,11/27/2020,0
+60464,60,F,Broadalbin,Northeast,Bronze,3,161.9,0,Men's Fashion,cod,11/26/2020,0
+10470,51,F,Houston,South,Bronze,7,1901.7,0,Women's Fashion,cod,2/22/2021,0
+60465,20,F,Sneads Ferry,South,,1,393.5,0,Computing,cod,6/10/2020,1
+60466,60,M,New Haven,Northeast,Bronze,1,177.5,0,Entertainment,cod,6/10/2020,1
+60467,40,F,South Grafton,Northeast,Bronze,3,317,0,Men's Fashion,cod,11/25/2020,0
+59154,39,F,New Bethlehem,Northeast,Bronze,2,2000,0,Appliances,Payaxis,9/10/2020,1
+6322,43,M,Belvidere,South,Bronze,1,16,0,Soghaat,cod,6/10/2020,1
+59152,60,M,Waxahachie,South,Bronze,1,787.6,0,Women's Fashion,Payaxis,6/10/2020,1
+57626,55,M,Orrick,Midwest,Bronze,1,890,0,Appliances,Payaxis,6/10/2020,
+59249,67,F,Spooner,Midwest,Bronze,1,,0,Appliances,Payaxis,6/10/2020,1
+59237,61,F,Ontario,West,Bronze,2,834.5,0,Appliances,Payaxis,6/10/2020,1
+43118,74,M,Winchester,Midwest,Bronze,5,98,0,Soghaat,cod,6/10/2020,1
+566,41,M,Syracuse,Northeast,Silver,14,3115.23,680.77,Beauty & Grooming,cod,5/18/2021,0
+56174,33,M,Vauxhall,Northeast,Gold,62,86508.5,0,Mobiles & Tablets,Payaxis,12/9/2021,0
+60468,30,F,Houghton,Northeast,Bronze,3,182,0,Kids & Baby,cod,11/10/2020,1
+59746,21,F,Ithaca,Northeast,Bronze,,2123.6,0,Appliances,Payaxis,9/10/2020,1
+9277,21,M,Meriden,Midwest,Bronze,10,818.098,40.002,Books,cod,10/17/2020,1
+59234,52,F,Cornell,Midwest,Bronze,1,710,0,Appliances,Payaxis,6/10/2020,1
+59655,57,M,Bridgeton,Midwest,Bronze,1,710,0,Appliances,Payaxis,6/10/2020,1
+50094,75,M,Sidney,South,Bronze,1,149.9,0,Men's Fashion,cod,6/10/2020,1
+51600,63,F,Cincinnati,Midwest,Bronze,1,68.5,0,Women's Fashion,cod,6/10/2020,1
+19517,43,M,Nanuet,Northeast,Bronze,1,72,0,Mobiles & Tablets,cod,6/10/2020,1
+54376,32,F,Birmingham,Midwest,Bronze,2,99.8,0,Beauty & Grooming,cod,6/10/2020,1
+59251,45,M,San Francisco,West,Bronze,3,208.3,0,Health & Sports,Payaxis,6/10/2020,1
+60469,51,M,Denison,South,Bronze,2,213.2,60,Mobiles & Tablets,cod,11/10/2020,1
+14251,48,M,Salters,South,Bronze,6,294.8,0,Beauty & Grooming,cod,7/10/2020,1
+60470,27,F,Kiowa,South,Bronze,7,453.35,100,Men's Fashion,cod,11/20/2020,0
+60471,43,F,Elba,Midwest,Bronze,1,109.9,0,Beauty & Grooming,cod,7/10/2020,1
+60472,58,M,Minneapolis,Midwest,Bronze,1,79.9,0,Women's Fashion,cod,7/10/2020,1
+59083,60,M,Charlotte,South,Bronze,1,925.3,0,Appliances,Payaxis,7/10/2020,1
+59747,50,M,Eldena,Midwest,Bronze,2,334.4,0,Men's Fashion,Payaxis,10/10/2020,1
+59756,69,M,Fairfield,Northeast,Bronze,2,1914.894,0,Appliances,Payaxis,9/10/2020,1
+26353,40,F,Racine,Midwest,Bronze,4,332.3,0,Men's Fashion,cod,11/22/2020,0
+59225,57,F,Trenton,Northeast,Bronze,1,963,0,Appliances,Payaxis,7/10/2020,1
+59613,58,M,Monticello,Midwest,Bronze,1,690,0,Appliances,Payaxis,7/10/2020,1
+60473,45,F,Almont,Midwest,Bronze,1,0,0,Mobiles & Tablets,Easypay,7/10/2020,1
+6277,66,F,Miles,Midwest,Bronze,2,106,0,Soghaat,jazzvoucher,7/10/2020,1
+60474,62,F,Glencoe,West,Bronze,9,9312.8,0,Mobiles & Tablets,Payaxis,7/10/2020,1
+60475,37,F,Yantis,South,,18,10481.2,0,Beauty & Grooming,Payaxis,7/10/2020,1
+60476,57,F,Tampa,South,Bronze,1,959.9,0,Mobiles & Tablets,cod,7/10/2020,1
+59054,20,F,Elk Rapids,Midwest,Bronze,1,1090,0,Kids & Baby,Payaxis,7/10/2020,1
+60477,20,F,Haywood,South,Bronze,2,2110.6,0,Home & Living,cod,7/10/2020,1
+59680,67,F,Morris,Midwest,Bronze,3,1690.9,0,Kids & Baby,Payaxis,10/15/2020,1
+60478,53,M,Americus,South,Bronze,1,490,0,Beauty & Grooming,cod,7/10/2020,1
+60479,41,M,Dutzow,Midwest,Bronze,1,70,0,Kids & Baby,cod,7/10/2020,1
+60480,48,M,Cincinnati,Midwest,Bronze,1,35,0,Mobiles & Tablets,cod,7/10/2020,1
+33,69,F,Bullhead City,West,Platinum,132,61874.575,3233.625,Men's Fashion,cod,11/2/2021,0
+60481,58,M,Washington,South,Bronze,2,71.3,0,Home & Living,cod,7/10/2020,1
+7406,26,F,Rochester,Northeast,Bronze,12,858.9,0,Soghaat,cod,3/20/2021,0
+60482,38,M,Waldorf,South,Bronze,1,99.9,0,Men's Fashion,cod,7/10/2020,1
+60483,54,F,Whippany,Northeast,Bronze,1,490,0,Beauty & Grooming,cod,7/10/2020,1
+60484,61,M,Washington,South,Bronze,3,,0,Men's Fashion,cod,7/10/2020,1
+59990,37,F,Baton Rouge,South,Bronze,1,800,0,Appliances,Payaxis,7/10/2020,1
+60485,55,M,Hinckley,Midwest,Bronze,1,490,0,Beauty & Grooming,cod,7/10/2020,1
+60486,56,F,Sunland,West,Bronze,1,166,0,Entertainment,cod,7/10/2020,1
+60487,60,F,Riverbank,West,Bronze,6,1279.8,0,Women's Fashion,cod,10/17/2020,1
+60488,72,M,Old Saybrook,Northeast,Bronze,1,360,0,Appliances,cod,7/10/2020,1
+60489,22,F,Springfield,Northeast,Bronze,1,490,0,Beauty & Grooming,cod,7/10/2020,1
+60490,56,F,Constableville,Northeast,Bronze,1,605.7,0,Women's Fashion,cod,7/10/2020,1
+23089,25,M,Houston,South,Gold,36,1901.792,0,Mobiles & Tablets,cod,7/22/2021,0
+60491,69,F,Rhodes,Midwest,Bronze,1,185,0,Women's Fashion,cod,7/10/2020,1
+60492,30,F,Austin,South,Bronze,9,4420.9,0,Health & Sports,Payaxis,12/10/2020,0
+8744,18,M,Katonah,Northeast,Bronze,8,4266.76,1400.64,Appliances,Easypay,12/24/2020,0
+60493,20,F,Amarillo,South,Bronze,1,857.5,0,Mobiles & Tablets,cod,7/10/2020,1
+33830,40,M,Centralia,West,Gold,,9440.995,110,Men's Fashion,cod,9/25/2021,0
+55473,33,F,Sellers,South,Bronze,3,276,0,Beauty & Grooming,cod,10/14/2020,1
+60494,18,M,Belleville,Midwest,Bronze,1,69.9,0,Men's Fashion,cod,7/10/2020,1
+60495,39,F,Hometown,South,Bronze,1,397.5,0,Appliances,cod,7/10/2020,1
+58022,18,F,Derwent,Midwest,Silver,24,1084.5,0,Beauty & Grooming,cod,3/27/2021,0
+60496,57,M,Three Oaks,Midwest,Bronze,1,81.7,0,Mobiles & Tablets,cod,7/10/2020,1
+60497,29,F,Hampton,South,Bronze,1,490,0,Beauty & Grooming,cod,7/10/2020,1
+60498,24,F,Greentown,Midwest,Bronze,1,119.8,0,Men's Fashion,cod,7/10/2020,1
+31462,18,M,San Jose,West,Bronze,1,357,0,Home & Living,cod,7/10/2020,1
+60499,50,M,Turkey Creek,South,Bronze,1,,0,Superstore,cod,7/10/2020,1
+60500,37,M,West Grove,Midwest,Bronze,1,72.2,0,Women's Fashion,cod,7/10/2020,1
+60501,22,F,Rice,South,Bronze,3,240.5,0,Kids & Baby,cod,7/10/2020,1
+60502,26,M,Westerville,Midwest,Bronze,3,685.4,0,Women's Fashion,cod,7/10/2020,1
+53847,26,M,Sunbury,South,Silver,22,15111.8064,2397.7316,Mobiles & Tablets,cod,11/6/2021,0
+60503,72,F,Seneca,Midwest,Platinum,170,63892.48,0,Soghaat,Payaxis,12/10/2020,0
+59928,38,M,Hanover,Northeast,Bronze,4,290.7,0,Men's Fashion,cod,6/23/2021,0
+60504,31,F,Naples,Northeast,Bronze,2,666,0,Appliances,Easypay,7/10/2020,1
+33121,43,M,Waterville,Midwest,Bronze,1,138.9,0,Mobiles & Tablets,cod,7/10/2020,1
+54934,51,M,Cross Village,Midwest,Bronze,1,179,0,Beauty & Grooming,cod,7/10/2020,1
+60505,45,M,Fairdale,South,Bronze,4,849.9,110,Appliances,Easypay,12/28/2020,0
+60506,42,F,Columbia,South,Bronze,1,12.5,0,Mobiles & Tablets,cod,7/10/2020,1
+48172,49,M,Saint Paul,Midwest,Bronze,4,210.1,0,Beauty & Grooming,cod,12/20/2020,0
+59220,62,F,Tampa,South,Bronze,3,116.3,0,Men's Fashion,cod,7/10/2020,1
+473,63,M,Abilene,South,Bronze,12,5157.5,0,Computing,cod,7/10/2020,1
+6715,32,F,Wakeman,Midwest,Bronze,4,555.2,0,Men's Fashion,cod,3/15/2021,0
+20919,41,M,Washington,South,Bronze,,154.4,0,Men's Fashion,cod,8/26/2021,0
+8513,50,F,Decatur,South,Platinum,85,28777.68399,3279.21601,Mobiles & Tablets,cod,12/6/2021,0
+60507,53,M,Horsham,Northeast,Bronze,2,549.8,0,Beauty & Grooming,cod,7/10/2020,1
+60508,60,F,Del Rio,South,Bronze,2,217.4,0,Men's Fashion,cod,7/10/2020,1
+60509,28,F,Roodhouse,Midwest,,6,2456.9,0,Women's Fashion,cod,12/27/2020,0
+37798,66,F,Parkers Prairie,Midwest,Gold,55,3191.17,0,Women's Fashion,cod,12/4/2021,0
+31187,49,M,Alexandria,South,Bronze,1,0,0,Mobiles & Tablets,Payaxis,7/10/2020,1
+59946,40,F,Lawton,Midwest,Bronze,2,74,0,Health & Sports,cod,10/21/2020,1
+60510,26,M,Lee,South,Bronze,1,37.5,0,Beauty & Grooming,cod,7/10/2020,1
+60511,55,M,Houston,South,Bronze,1,3200,0,Entertainment,Payaxis,8/10/2020,1
+60512,22,M,Magnolia,Midwest,Bronze,1,100,0,Women's Fashion,cod,8/10/2020,1
+60513,42,F,Norfolk,South,Bronze,3,263.9,0,Home & Living,cod,8/10/2020,1
+60514,43,F,Malone,Northeast,Bronze,1,24.9,0,Women's Fashion,cod,8/10/2020,1
+60515,73,F,Warren,Midwest,Bronze,1,84.9,0,Men's Fashion,cod,8/10/2020,1
+36498,33,F,Duluth,Midwest,Bronze,11,6557.1,300,Women's Fashion,Easypay,12/22/2020,0
+60516,56,F,Hazel,Midwest,,1,172,0,Mobiles & Tablets,cod,8/10/2020,
+44668,49,M,Coulee Dam,West,Silver,30,5499,26.5,Women's Fashion,cod,8/2/2021,0
+60517,55,F,Jeffersonville,Midwest,Bronze,3,169.965,0,Kids & Baby,cod,8/10/2020,1
+56459,62,M,Vero Beach,South,Bronze,1,26.5,0,Mobiles & Tablets,cod,8/10/2020,1
+19785,34,F,Olmitz,Midwest,Bronze,,37.2,0,Beauty & Grooming,cod,10/14/2020,1
+60518,26,F,New London,Midwest,Bronze,1,15,0,Mobiles & Tablets,cod,8/10/2020,1
+57786,73,M,Mount Pleasant,Midwest,Gold,72,20258.2,0,Women's Fashion,cod,9/22/2021,0
+58947,70,M,Leslie,South,Bronze,3,538.5,0,Mobiles & Tablets,Payaxis,10/16/2020,1
+60519,43,M,Rural Hall,South,Bronze,1,200,0,Women's Fashion,cod,8/10/2020,1
+60520,44,M,Fayetteville,South,Bronze,2,140,0,Health & Sports,cod,8/10/2020,1
+60521,75,F,Rehrersburg,Northeast,Bronze,2,984.3,0,Women's Fashion,cod,8/10/2020,1
+60037,69,M,Columbus,Midwest,Silver,13,10673.1,120,Mobiles & Tablets,customercredit,11/20/2020,0
+58933,73,F,Mc Connelsville,Midwest,Bronze,8,12155.9,0,Entertainment,Payaxis,12/10/2020,0
+60522,42,F,Portage,Midwest,Bronze,1,959.9,0,Mobiles & Tablets,cod,8/10/2020,1
+60523,55,M,Columbia,Midwest,Bronze,4,4938.9,0,Mobiles & Tablets,Easypay,10/17/2020,1
+60524,54,F,Jacks Creek,South,Bronze,1,1896,0,Entertainment,cod,8/10/2020,1
+56044,70,F,Ferryville,Midwest,Bronze,3,214.5,0,Superstore,cod,8/10/2020,1
+60525,58,M,Sparks,South,Bronze,5,8936.3,0,Entertainment,Payaxis,8/10/2020,1
+60526,49,M,Morvin,South,Bronze,1,959.9,0,Mobiles & Tablets,cod,8/10/2020,1
+60527,18,M,Albany,Northeast,Bronze,1,93.8,0,Soghaat,cod,8/10/2020,1
+60528,33,M,Helotes,South,Bronze,5,2295,0,Men's Fashion,Easypay,4/29/2021,0
+30465,24,F,Plainfield,Northeast,Platinum,240,232107.4701,44361.16188,Mobiles & Tablets,cod,10/1/2021,0
+60529,74,M,Williamsburg,Northeast,Bronze,1,1450,0,Mobiles & Tablets,cod,8/10/2020,1
+60530,44,M,Sunray,South,Bronze,2,150,80,Men's Fashion,cod,12/10/2020,0
+32210,62,F,Dodd City,South,Bronze,6,1350,0,Women's Fashion,Easypay,12/13/2020,0
+43229,38,M,Daniel,West,Gold,39,53339,0,Appliances,customercredit,11/27/2020,0
+59502,69,M,Martel,Midwest,Bronze,6,615.5,0,Mobiles & Tablets,cod,10/18/2020,
+53599,25,F,Amarillo,South,Bronze,5,479.7,0,Mobiles & Tablets,cod,9/6/2021,0
+9019,34,M,Mountain Home,West,Bronze,3,1192.4,0,Appliances,cod,8/19/2021,0
+60531,26,F,West Brooklyn,Midwest,Bronze,1,52.5,0,Health & Sports,cod,8/10/2020,1
+53682,52,F,Billingsley,South,Bronze,3,1953.5,0,Men's Fashion,cod,10/22/2020,1
+60532,43,M,Luxora,South,Bronze,2,202.4,0,Entertainment,cod,3/27/2021,0
+59850,36,M,Quinnimont,South,Bronze,1,142.6,0,Computing,Payaxis,8/10/2020,1
+51328,32,M,Newcomb,South,Bronze,1,89.9,0,Men's Fashion,cod,8/10/2020,1
+60533,36,F,Topton,Northeast,Bronze,4,430,0,Health & Sports,Easypay,8/10/2020,1
+60534,22,F,Carrington,Midwest,Bronze,7,1309.3,20,Women's Fashion,cod,10/15/2020,1
+60535,59,M,Lake Placid,South,Bronze,3,2470.5,0,Mobiles & Tablets,Easypay,8/10/2020,1
+59910,18,M,Blairs,South,Bronze,2,1469.9,0,Beauty & Grooming,cod,12/17/2020,0
+60536,19,F,Peoria,Midwest,Bronze,9,2029.6,0,Soghaat,cod,10/6/2021,0
+60537,25,F,Tower City,Northeast,Bronze,1,38.9,0,Appliances,cod,8/10/2020,1
+60538,33,M,Fort Worth,South,Silver,14,746.9,0,Women's Fashion,cod,5/17/2021,0
+60539,33,F,Neche,Midwest,Bronze,1,99.9,0,Men's Fashion,cod,8/10/2020,1
+36954,28,M,Wolverine,Midwest,Silver,31,1331.5,0,Women's Fashion,Payaxis,9/1/2021,0
+60540,52,M,Washington,South,Bronze,1,100,0,Health & Sports,cod,8/10/2020,1
+60541,40,M,Lew Beach,Northeast,Bronze,1,103.8,0,Home & Living,cod,8/10/2020,1
+26408,20,F,Medora,Midwest,Silver,13,354.8,0,Soghaat,cod,8/10/2020,1
+34740,19,F,Philadelphia,Northeast,Bronze,2,249.5,190,Women's Fashion,cod,8/10/2020,1
+60049,26,F,Wyndmere,Midwest,Bronze,1,100,0,Women's Fashion,cod,8/10/2020,1
+60542,45,M,Brookline Station,Midwest,Bronze,1,85,0,Beauty & Grooming,cod,8/10/2020,1
+17125,69,F,Manokotak,West,Bronze,6,2675.3,20,Appliances,Payaxis,12/24/2020,0
+60543,40,M,West Rockport,Northeast,Bronze,3,2084.6,0,Mobiles & Tablets,Easypay,10/24/2020,1
+60544,47,F,Jacksonville,South,Bronze,2,194.9,0,Women's Fashion,cod,8/10/2020,1
+60545,29,M,Kanawha Head,South,Bronze,11,10450,0,Entertainment,Easypay,9/10/2020,1
+60546,42,M,Coolin,West,Bronze,4,1865.7,0,Women's Fashion,cod,8/10/2020,1
+60547,28,M,Geneva,Midwest,Bronze,1,24.6,0,Mobiles & Tablets,cod,8/10/2020,1
+35723,39,F,Bostwick,South,Bronze,1,129.9,20,Women's Fashion,cod,8/10/2020,1
+60548,66,F,Lyburn,South,Bronze,1,490,0,Beauty & Grooming,cod,8/10/2020,1
+60549,34,F,Harpursville,Northeast,Bronze,1,490,0,Mobiles & Tablets,cod,8/10/2020,1
+58354,41,F,Boyceville,Midwest,Bronze,8,2679.48,315.92,Mobiles & Tablets,Easypay,6/6/2021,0
+60550,32,M,Fairhope,Northeast,Bronze,1,120,0,Home & Living,cod,8/10/2020,1
+39427,47,M,Verona,Northeast,Bronze,4,523.6,20,Mobiles & Tablets,cod,11/10/2020,
+56644,71,M,Centreville,South,Bronze,1,130,0,Women's Fashion,cod,8/10/2020,1
+60551,32,F,North East,South,Bronze,1,155,0,Women's Fashion,cod,8/10/2020,1
+60552,32,M,Counce,South,Bronze,1,99.9,0,Women's Fashion,cod,8/10/2020,1
+60553,70,F,Rock Creek,Midwest,Bronze,1,85,0,Home & Living,cod,8/10/2020,1
+42046,60,M,Dunbar,Midwest,Platinum,138,60635.82,5517.43,Mobiles & Tablets,cod,11/1/2021,0
+60554,47,M,Hibbing,Midwest,Bronze,4,254.5,0,Men's Fashion,customercredit,4/30/2021,0
+55915,27,M,Salvisa,South,Bronze,2,181.7,0,Kids & Baby,cod,8/10/2020,1
+60555,29,M,Conesville,Midwest,Bronze,3,160.5,0,Health & Sports,cod,8/10/2020,1
+60556,19,F,Millersburg,Midwest,Bronze,1,849.9,110,Mobiles & Tablets,Easypay,8/10/2020,1
+20252,74,F,Allen,South,Bronze,1,35,0,Mobiles & Tablets,cod,8/10/2020,1
+19132,19,F,Minneapolis,Midwest,Bronze,7,303.3,0,Kids & Baby,jazzwallet,8/10/2020,
+51162,49,F,Englewood Cliffs,Northeast,Bronze,1,650,0,Health & Sports,cod,8/10/2020,1
+1963,64,F,Greeley,West,Platinum,100,83097.187,1433.24,Appliances,cod,12/3/2021,0
+60557,31,F,Snowshoe,South,Bronze,5,6376.2,110,Mobiles & Tablets,cod,8/10/2020,1
+60558,71,M,Detroit,Midwest,Bronze,1,119.8,0,Men's Fashion,cod,8/10/2020,1
+60068,44,M,West Lebanon,Midwest,Bronze,3,807.75,0,Superstore,cod,9/14/2021,0
+60559,64,F,Elfrida,West,Bronze,1,50,0,Soghaat,cod,8/10/2020,1
+60560,30,M,Nanafalia,South,Bronze,2,104.9,0,Mobiles & Tablets,cod,8/10/2020,1
+60561,30,F,Easton,South,Bronze,6,312.6,0,Home & Living,cod,10/24/2020,1
+21806,22,F,Dallastown,Northeast,Gold,39,1572.5,20,Beauty & Grooming,cod,11/1/2021,0
+12911,33,F,Cowden,Midwest,Bronze,3,679.3,0,Men's Fashion,cod,9/22/2021,0
+60562,51,F,Springfield,Midwest,Bronze,2,764.9,0,Appliances,cod,6/20/2021,0
+57371,73,M,Fremont Center,Northeast,Silver,17,10228.54,1352.46,Women's Fashion,cod,12/11/2020,0
+14995,70,M,Opelika,South,,23,1779.1,44.5,Soghaat,cod,8/1/2021,
+52139,28,F,Hackett,South,Bronze,1,44.5,0,Kids & Baby,cod,8/10/2020,1
+58850,63,F,Whitharral,South,Bronze,,1305.8,110,Entertainment,cod,8/10/2020,1
+60563,58,M,Apison,South,Bronze,3,173.9,0,Women's Fashion,cod,8/10/2020,1
+57869,64,F,El Paso,Midwest,Platinum,210,9971.531,2330.819,Superstore,Payaxis,12/6/2021,0
+60564,69,F,Tampa,South,Bronze,2,156.5,0,Women's Fashion,cod,8/10/2020,1
+35000,23,M,Slidell,South,Bronze,6,1017.8,0,Women's Fashion,cod,11/27/2020,0
+36110,69,M,Richland,Northeast,Bronze,1,60.3,0,Superstore,cod,8/10/2020,1
+50379,32,M,Olmstead,South,Bronze,3,102.5,0,Beauty & Grooming,cod,8/10/2020,1
+60565,52,M,Toledo,Midwest,Bronze,5,752.3,60,Health & Sports,Payaxis,5/21/2021,0
+50942,24,M,Cochecton Center,Northeast,Bronze,7,1715,0,Beauty & Grooming,cod,8/10/2020,1
+60566,39,M,Okatie,South,Bronze,1,490,0,Beauty & Grooming,cod,8/10/2020,1
+60567,74,F,New Hyde Park,Northeast,Bronze,1,221.2,0,Home & Living,cod,8/10/2020,1
+60568,42,F,Nada,South,Bronze,4,1037.9,0,Men's Fashion,cod,10/31/2020,1
+37065,59,M,Maywood,Northeast,Bronze,2,101,20,Soghaat,cod,8/10/2020,1
+57446,42,F,Houston,South,Bronze,9,1104.91,56.99,Women's Fashion,cod,6/22/2021,0
+13192,67,F,Asheboro,South,Bronze,10,3594.6,1300,Women's Fashion,cod,5/18/2021,0
+13575,68,F,Woodridge,Northeast,Platinum,86,30359.449,2417.851,Women's Fashion,cod,12/6/2021,0
+25727,60,F,Eudora,Midwest,Silver,21,20667.74,5596.56,Appliances,Easypay,8/1/2021,0
+15,69,F,Schererville,Midwest,Bronze,6,216.8,0,Men's Fashion,cod,11/2/2021,0
+21101,48,F,Richmond,South,Silver,,5055.945,517.755,Men's Fashion,cod,12/3/2021,0
+60569,30,M,Holly Hill,South,Bronze,4,695,0,Women's Fashion,cod,8/10/2020,1
+60570,36,M,Fairfield,Northeast,Bronze,1,207.4,0,Men's Fashion,cod,8/10/2020,1
+60571,56,M,Montgomery,South,Bronze,2,149.5,30,Home & Living,cod,10/13/2020,1
+4910,70,F,Southport,Northeast,Bronze,6,484.6,0,Men's Fashion,cod,8/5/2021,0
+60572,62,F,Rayland,Midwest,Bronze,3,1639.9,0,Women's Fashion,cod,8/10/2020,1
+47946,50,F,Mereta,South,Bronze,4,780,0,Appliances,cod,9/18/2021,0
+4167,27,M,Squaw Lake,Midwest,Bronze,8,196.9,0,Mobiles & Tablets,cod,10/9/2021,0
+30835,39,F,Virginia Beach,South,Bronze,1,12.5,0,Kids & Baby,cod,8/10/2020,1
+60573,39,M,Carver,Northeast,Bronze,1,261,0,Mobiles & Tablets,cod,8/10/2020,1
+59758,54,M,Thomasville,South,Bronze,2,2000,0,Mobiles & Tablets,Payaxis,9/10/2020,1
+60574,42,F,Oakhurst,Northeast,Bronze,1,490,0,Beauty & Grooming,cod,8/10/2020,1
+60575,45,M,Boise,West,Bronze,1,49.5,0,School & Education,cod,8/10/2020,1
+56791,40,F,Gardner,Northeast,Silver,18,2656.65,0,Beauty & Grooming,cod,10/5/2021,0
+60576,29,F,Rappahannock Academy,South,Bronze,1,133,0,Kids & Baby,cod,8/10/2020,1
+58578,49,F,Farmington,Midwest,Bronze,1,1000,0,Mobiles & Tablets,cod,8/10/2020,1
+60577,48,F,Menlo,West,Bronze,3,2978.7,220,Mobiles & Tablets,cod,5/2/2021,0
+54705,26,F,West Chicago,Midwest,Bronze,7,398.5,100,Beauty & Grooming,cod,1/21/2021,0
+19809,31,F,Waring,South,Bronze,1,115,0,Mobiles & Tablets,customercredit,8/10/2020,1
+60578,18,F,Tohatchi,West,Bronze,1,58.5,0,Beauty & Grooming,cod,8/10/2020,1
+57410,36,F,Harrisburg,Midwest,Bronze,8,893.4,0,Women's Fashion,cod,11/22/2020,0
+60579,56,F,Columbus,Midwest,Bronze,1,366.4,50,Women's Fashion,cod,8/10/2020,1
+60580,24,F,Minturn,South,Bronze,1,540,0,Mobiles & Tablets,cod,8/10/2020,1
+43797,45,F,Woody,West,Bronze,2,257.5,0,Mobiles & Tablets,cod,6/2/2021,0
+60581,23,M,Memphis,Midwest,Bronze,1,37.5,0,Kids & Baby,cod,8/10/2020,1
